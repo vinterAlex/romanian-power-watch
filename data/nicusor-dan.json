@@ -31,7 +31,10 @@
       },
       "money": 7000000000,
       "source": {
-        "label": { "en": "Digi24", "ro": "Digi24" },
+        "label": {
+          "en": "Digi24",
+          "ro": "Digi24"
+        },
         "url": "https://www.digi24.ro/alegeri-prezidentiale-2025/nicusor-dan-a-dat-in-scris-ca-tva-ul-nu-va-fi-majorat-daca-el-devine-presedinte-mesajul-scris-pe-hartie-3238837"
       }
     },
@@ -51,7 +54,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Calea Europeană", "ro": "Calea Europeană" },
+        "label": {
+          "en": "Calea Europeană",
+          "ro": "Calea Europeană"
+        },
         "url": "https://www.caleaeuropeana.ro/nicusor-dan-afirma-ca-anularea-alegerilor-din-2024-o-decizie-neobisnuita-si-foarte-curajoasa-georgescu-nu-a-fost-un-calaret-singuratic-ci-a-avut-in-spate-o-retea"
       }
     },
@@ -71,7 +77,10 @@
       },
       "money": 11000000000,
       "source": {
-        "label": { "en": "Politico Europe", "ro": "Politico Europe" },
+        "label": {
+          "en": "Politico Europe",
+          "ro": "Politico Europe"
+        },
         "url": "https://www.politico.eu/article/romania-election-calls-crisis-nicusor-dan-george-simion"
       }
     },
@@ -91,7 +100,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "SpotMedia", "ro": "SpotMedia" },
+        "label": {
+          "en": "SpotMedia",
+          "ro": "SpotMedia"
+        },
         "url": "https://spotmedia.ro/en/news/politics/nicusor-dan-supports-a-political-government-and-a-common-austerity-plan"
       }
     },
@@ -116,9 +128,17 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Gândul", "ro": "Gândul" },
+        "label": {
+          "en": "Gândul",
+          "ro": "Gândul"
+        },
         "url": "https://www.gandul.ro/diverse/dna-trimite-la-piccj-dosarul-in-care-nicusor-dan-e-acuzat-de-fals-in-declaratii-exercitarea-fara-drept-a-unor-profesii-spalare-de-bani-si-inselaciune-ce-probe-au-administrat-procurorii-19657489"
       }
     }
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Președinte al României (din mai 2025)",
+  "unverified": [
+    "Numărul exact al nominalizărilor eșuate de premier în 2026"
   ]
 }

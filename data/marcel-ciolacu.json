@@ -5,14 +5,14 @@
   "powerRank": 7,
   "status": "former",
   "statusLabel": {
-    "en": "Former Prime Minister (2023–2025) and former PSD leader (2019–2025); left national office after the 2024–2025 electoral defeats",
-    "ro": "Fost prim-ministru (2023–2025) și fost lider PSD (2019–2025); a părăsit funcțiile naționale după înfrângerile electorale din 2024–2025"
+    "en": "Former Prime Minister (2023 – 5 May 2025) and former PSD leader (2019–2025); since 19 December 2025 President of Buzău County Council",
+    "ro": "Fost prim-ministru (2023 – 5 mai 2025) și fost lider PSD (2019–2025); din 19 decembrie 2025 este președinte al Consiliului Județean Buzău"
   },
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Marcel_Ciolacu_%2818_January_2024%29_%28cropped%29.jpg/500px-Marcel_Ciolacu_%2818_January_2024%29_%28cropped%29.jpg",
   "severity": 7,
   "summary": {
-    "en": "The PSD baron from Buzău who climbed from the countryside to the premiership. His record: a conflict-of-interest finding by the Court of Accounts, undeclared luxury flights on a private jet chartered by a developer that later went insolvent, a suspect 'revolutionary' certificate he defended while suing the state for more privileges, and a cabinet term that left Romania with the EU's highest inflation and its largest deficit when he walked away.",
-    "ro": "Baronul PSD din Buzău, urcat de la țară până la funcția de premier. Bilanțul său: o constatare de conflict de interese la Curtea de Conturi, zboruri de lux nedeclarate cu un jet privat închiriat de un dezvoltator ulterior intrat în insolvență, un certificat de revoluționar suspect pe care l-a apărat în timp ce dădea statul în judecată pentru privilegiuri suplimentare, plus un mandat de premier care a lăsat România cu cea mai mare inflație din UE și cel mai mare deficit la momentul plecării."
+    "en": "Since December 2025 he chairs the Buzău County Council. The PSD baron from Buzău who climbed from the countryside to the premiership. His record: a conflict-of-interest finding by the Court of Accounts, undeclared luxury flights on a private jet chartered by a developer that later went insolvent, a suspect 'revolutionary' certificate he defended while suing the state for more privileges, and a cabinet term that left Romania with the EU's highest inflation and its largest deficit when he walked away.",
+    "ro": "Din decembrie 2025 conduce Consiliul Județean Buzău. Baronul PSD din Buzău, urcat de la țară până la funcția de premier. Bilanțul său: o constatare de conflict de interese la Curtea de Conturi, zboruri de lux nedeclarate cu un jet privat închiriat de un dezvoltator ulterior intrat în insolvență, un certificat de revoluționar suspect pe care l-a apărat în timp ce dădea statul în judecată pentru privilegiuri suplimentare, plus un mandat de premier care a lăsat România cu cea mai mare inflație din UE și cel mai mare deficit la momentul plecării."
   },
   "cases": [
     {
@@ -36,7 +36,10 @@
         "open": false
       },
       "source": {
-        "label": { "en": "Wikipedia – Marcel Ciolacu", "ro": "Wikipedia – Marcel Ciolacu" },
+        "label": {
+          "en": "Wikipedia – Marcel Ciolacu",
+          "ro": "Wikipedia – Marcel Ciolacu"
+        },
         "url": "https://en.wikipedia.org/wiki/Marcel_Ciolacu"
       }
     },
@@ -61,7 +64,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "G4Media.ro", "ro": "G4Media.ro" },
+        "label": {
+          "en": "G4Media.ro",
+          "ro": "G4Media.ro"
+        },
         "url": "https://www.g4media.ro/exclusiv-dovada-ca-liderii-psd-marcel-ciolacu-grindeanu-simonis-si-laura-vicol-au-zburat-cu-jetul-privat-inchiriat-de-nordis-o-distractie-la-nisa-si-la-paris-documentata-pe-ore-totul-despre-cele.html"
       }
     },
@@ -86,7 +92,10 @@
         "open": false
       },
       "source": {
-        "label": { "en": "Recorder", "ro": "Recorder" },
+        "label": {
+          "en": "Recorder",
+          "ro": "Recorder"
+        },
         "url": "https://recorder.ro/erou-sau-impostor-ce-am-gasit-in-dosarul-de-revolutionar-al-lui-marcel-ciolacu/"
       }
     },
@@ -106,7 +115,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Digi24", "ro": "Digi24" },
+        "label": {
+          "en": "Digi24",
+          "ro": "Digi24"
+        },
         "url": "https://www.euronews.com/2024/03/05/inflation-in-europe-which-countries-have-the-highest-and-lowest-inflation-rates"
       }
     },
@@ -126,7 +138,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Politico Europe", "ro": "Politico Europe" },
+        "label": {
+          "en": "Politico Europe",
+          "ro": "Politico Europe"
+        },
         "url": "https://www.politico.eu/article/romania-prime-minister-marcel-ciolacu-resignation-presidential-election/"
       }
     },
@@ -146,7 +161,10 @@
       },
       "money": 10000000,
       "source": {
-        "label": { "en": "Deutsche Welle", "ro": "Deutsche Welle" },
+        "label": {
+          "en": "Deutsche Welle",
+          "ro": "Deutsche Welle"
+        },
         "url": "https://www.dw.com/ro/analiz%C4%83-cum-%C8%99i-au-cump%C4%83rat-ciuc%C4%83-ciolacu-lini%C8%99tea/a-65498117"
       }
     },
@@ -171,7 +189,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Sibiu100 – PÎCCJ opens the annulment file", "ro": "Sibiu100 – PÎCCJ deschide dosarul anulării" },
+        "label": {
+          "en": "Sibiu100 – PÎCCJ opens the annulment file",
+          "ro": "Sibiu100 – PÎCCJ deschide dosarul anulării"
+        },
         "url": "https://sibiu100.ro/eveniment/piccj-a-deschis-un-dosar-penal-privind-anularea-alegerilor-din-2024-peste-600-de-plangeri-in-atentia-procurorilor-klaus-iohannis-se-afla-pe-lista/"
       }
     },
@@ -196,9 +217,14 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Adevărul", "ro": "Adevărul" },
+        "label": {
+          "en": "Adevărul",
+          "ro": "Adevărul"
+        },
         "url": "https://adevarul.ro/politica/plangere-penala-impotriva-lui-marcel-ciolacu-a-2455244.html"
       }
     }
-  ]
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Președinte al Consiliului Județean Buzău (din 19 decembrie 2025); fost premier (2023 – 5 mai 2025)"
 }

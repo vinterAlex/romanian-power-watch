@@ -31,7 +31,10 @@
       },
       "money": 7000000000,
       "source": {
-        "label": { "en": "Euractiv", "ro": "Euractiv" },
+        "label": {
+          "en": "Euractiv",
+          "ro": "Euractiv"
+        },
         "url": "https://www.rapporteur.com/news/mounting-unrest-in-romania-over-austerity-measures"
       }
     },
@@ -51,7 +54,10 @@
       },
       "money": 3000000000,
       "source": {
-        "label": { "en": "Radio Romania International", "ro": "Radio România Internațional" },
+        "label": {
+          "en": "Radio Romania International",
+          "ro": "Radio România Internațional"
+        },
         "url": "https://www.rri.ro/en/news-and-current-affairs/today-in-the-news/the-first-package-of-fiscal-measures-id905617.html"
       }
     },
@@ -71,7 +77,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "AP News", "ro": "AP News" },
+        "label": {
+          "en": "AP News",
+          "ro": "AP News"
+        },
         "url": "https://apnews.com/article/romania-government-no-confidence-motion-european-union-cae251a0ef62c9941d9355c0b2c927ea"
       }
     },
@@ -96,7 +105,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Goldring", "ro": "Goldring" },
+        "label": {
+          "en": "Goldring",
+          "ro": "Goldring"
+        },
         "url": "https://www.goldring.ro/ro/news/ilie-bolojan-a-fost-audiat-ca-martor-la-dna-iasi-in-dosarul-de-coruptie-al-omului-de-afaceri-fanel-bogos"
       }
     },
@@ -121,9 +133,18 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Jurnalul", "ro": "Jurnalul" },
+        "label": {
+          "en": "Jurnalul",
+          "ro": "Jurnalul"
+        },
         "url": "https://jurnalul.ro/special-jurnalul/anchete/dosarul-microbuzelor-electrice-scolar-pus-la-sertar-de-parchetul-codrutei-kovesi-1043888.html"
       }
     }
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Președinte PNL; fost prim-ministru (noiembrie 2025 – 5 mai 2026)",
+  "unverified": [
+    "Numărul exact de voturi împotrivă (4) nu a fost confirmat",
+    "Cursul de 5,21 lei/euro nu a fost verificat cu BNR"
   ]
 }

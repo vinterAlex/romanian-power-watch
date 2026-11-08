@@ -31,7 +31,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Gândul", "ro": "Gândul" },
+        "label": {
+          "en": "Gândul",
+          "ro": "Gândul"
+        },
         "url": "https://www.gandul.ro/politica/senatorii-dezbat-si-voteaza-luni-motiunea-simpla-depusa-de-suveranisti-impotriva-ministrului-energiei-20474037"
       }
     },
@@ -51,7 +54,10 @@
       },
       "money": 28000,
       "source": {
-        "label": { "en": "HotNews", "ro": "HotNews" },
+        "label": {
+          "en": "HotNews",
+          "ro": "HotNews"
+        },
         "url": "https://hotnews.ro/cum-argumenteaza-sebastian-burduja-angajarea-unei-firme-private-pentru-a-scrie-o-ordonanta-un-context-de-complexitate-tehnica-fara-precedent-2025869"
       }
     },
@@ -71,9 +77,14 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Ziare.com", "ro": "Ziare.com" },
+        "label": {
+          "en": "Ziare.com",
+          "ro": "Ziare.com"
+        },
         "url": "https://ziare.com/sebastian-burduja/ministrul-energiei-petitie-greenpeace-declic-nicusor-dan-1944705"
       }
     }
-  ]
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Deputat PNL București; vicepreședinte al Comisiei pentru industrii și servicii"
 }

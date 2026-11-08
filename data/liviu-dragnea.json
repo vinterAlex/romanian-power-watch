@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "liviu-dragnea",
   "name": "Liviu Dragnea",
   "party": "PSD",
@@ -36,7 +36,10 @@
         "open": false
       },
       "source": {
-        "label": { "en": "Euronews", "ro": "Euronews" },
+        "label": {
+          "en": "Euronews",
+          "ro": "Euronews"
+        },
         "url": "https://www.euronews.com/2019/05/29/how-romania-s-most-powerful-politician-ended-up-in-jail"
       }
     },
@@ -61,7 +64,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Romania Insider", "ro": "Romania Insider" },
+        "label": {
+          "en": "Romania Insider",
+          "ro": "Romania Insider"
+        },
         "url": "https://www.romania-insider.com/society/liviu-dragnea-sent-court-corruption-case-2022"
       }
     },
@@ -86,7 +92,10 @@
         "open": false
       },
       "source": {
-        "label": { "en": "Radio Romania International", "ro": "Radio România Internațional" },
+        "label": {
+          "en": "Radio Romania International",
+          "ro": "Radio România Internațional"
+        },
         "url": "https://www.rri.ro/en/news-and-current-affairs/today-in-the-news/prison-sentence-for-the-social-democrat-leader-liviu-dragnea-id78232.html"
       }
     },
@@ -106,9 +115,14 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Gazeta de Sud", "ro": "Gazeta de Sud" },
+        "label": {
+          "en": "Gazeta de Sud",
+          "ro": "Gazeta de Sud"
+        },
         "url": "https://www.gds.ro/politica/2026-07-14/liviu-dragnea-liderii-psd-au-fost-siguri-ca-l-vor-da-jos-pe-ilie-bolojan-si-nu-au-avut-niciun-plan-de-rezerva"
       }
     }
-  ]
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Fost lider PSD; condamnat definitiv, eliberat în 2022"
 }

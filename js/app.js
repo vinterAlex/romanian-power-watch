@@ -19,7 +19,7 @@ const state = { query: '', status: 'all', party: 'all', sort: 'hierarchy' };
 const I18N = {
   en: {
     kicker: 'Documents the crimes · the damage · the money',
-    subtitle: 'Documented corruption & abuse-of-power record of Romania\'s political leadership — top 10 figures with the power to rule, reconstructed from real sources.',
+    subtitle: 'Documented corruption & abuse-of-power record of Romania\'s political leadership — 11 figures who held or influence power, reconstructed from real sources. Last verified: 8 Nov 2026.',
     statsNote: 'Money = sums referenced in the tracked cases (public funds at stake, damages cited by prosecutors, costs imposed on the population) — NOT proven stolen amounts.',
     searchPh: '🔍  Search names, cases, topics…',
     noResults: 'No figure matches your filters.',
@@ -47,11 +47,11 @@ const I18N = {
     tabNetwork: 'Corruption network',
     netLegend: 'Click a person → full dossier · hover a red line → why they\'re connected · click a line to pin · scroll = zoom, drag = pan',
     disclaimer: '⚠ This dossier aggregates allegations, court findings and journalistic investigations. Some subjects were acquitted, had cases closed, or deny wrongdoing. Every statement is attributed and linked to its source. The presumption of innocence applies; severity scores are editorial ratings of the documented public record, not legal judgments.',
-    footerMeta: 'Sources: Reuters, AP, France 24, BBC, Politico, Euronews, RFE/RL, DW, Euractiv, G4Media, Recorder, PressOne, Digi24, HotNews.',
+    footerMeta: 'Sources: Reuters, AP, France 24, BBC, Politico, Euronews, RFE/RL, DW, Euractiv, G4Media, Recorder, PressOne, Digi24, HotNews. Last verified: 8 Nov 2026. Corrections: CORECTII.md.',
   },
   ro: {
     kicker: 'Documentează infracțiunile · dauna · banii',
-    subtitle: 'Bilanțul corupției și al abuzurilor de putere ale conducerii politice din România — top 10 figuri cu putere de a guverna, reconstruit din surse reale.',
+    subtitle: 'Bilanțul corupției și al abuzurilor de putere ale conducerii politice din România — 11 figuri care au deținut puterea sau o influențează, reconstruit din surse reale. Ultima verificare: 8 nov. 2026.',
     statsNote: 'Bani = sumele menționate în dosarele urmărite (fonduri publice în joc, prejudicii CITATE de procurori, costuri impuse populației) — NU sume dovedit furate.',
     searchPh: '🔍  Caută nume, dosare, subiecte…',
     noResults: 'Nicio figură nu se potrivește filtrelor tale.',
@@ -78,8 +78,8 @@ const I18N = {
     tabDossiers: 'Dosarele (ierarhia puterii)',
     tabNetwork: 'Rețeaua corupției',
     netLegend: 'Click pe o persoană → dosarul complet · hover pe o linie roșie → de ce sînt conectați · click pe linie pentru fixare · scroll = zoom, drag = mișcare',
-    disclaimer: '⚠ Acest dosar agregă din acuzații, constatări judecătorești și investigații jurnalistice. Unele subiecte au fost achitate, au avut dosare clasate sau neagă vina. Fiecare afirmație e atribuită și are legătură către sursă. Presunția de nevinovăție se aplică; scorurile de severitate sunt aprecieri editoriale ale bilanțului public documentat, nu hotărâiri legale.',
-    footerMeta: 'Surse: Reuters, AP, France 24, BBC, Politico, Euronews, RFE/RL, DW, Euractiv, G4Media, Recorder, PressOne, Digi24, HotNews.',
+    disclaimer: '⚠ Acest dosar agregă acuzații, constatări judecătorești și investigații jurnalistice. Unele subiecte au fost achitate, au avut dosare clasate sau neagă vina. Fiecare afirmație este atribuită și are legătură către sursă. Prezumția de nevinovăție se aplică; scorurile de severitate sunt aprecieri editoriale ale bilanțului public documentat, nu hotărâri legale.',
+    footerMeta: 'Surse: Reuters, AP, France 24, BBC, Politico, Euronews, RFE/RL, DW, Euractiv, G4Media, Recorder, PressOne, Digi24, HotNews. Ultima verificare: 8 nov. 2026. Corecturi: CORECTII.md.',
   }
 };
 

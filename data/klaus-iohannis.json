@@ -31,7 +31,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "France 24", "ro": "France 24" },
+        "label": {
+          "en": "France 24",
+          "ro": "France 24"
+        },
         "url": "https://www.france24.com/en/live-news/20241208-thieves-romanians-demand-to-vote-after-scrapped-elections"
       }
     },
@@ -51,7 +54,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "BBC", "ro": "BBC" },
+        "label": {
+          "en": "BBC",
+          "ro": "BBC"
+        },
         "url": "https://www.bbc.com/news/articles/c3w805xjg1xo"
       }
     },
@@ -71,7 +77,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "PÎCCJ reporting (Sibiu100)", "ro": "Information PÎCCJ (Sibiu100)" },
+        "label": {
+          "en": "PÎCCJ reporting (Sibiu100)",
+          "ro": "Information PÎCCJ (Sibiu100)"
+        },
         "url": "https://sibiu100.ro/eveniment/piccj-a-deschis-un-dosar-penal-privind-anularea-alegerilor-din-2024-peste-600-de-plangeri-in-atentia-procurorilor-klaus-iohannis-se-afla-pe-lista/"
       }
     },
@@ -96,7 +105,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Digi24 – the cost of the classified flights", "ro": "Digi24 – costul zborurilor clasificate" },
+        "label": {
+          "en": "Digi24 – the cost of the classified flights",
+          "ro": "Digi24 – costul zborurilor clasificate"
+        },
         "url": "https://www.digi24.ro/digieconomic/macro/cat-au-costat-avioanele-private-inchiriate-de-klaus-iohannis-administratia-prezidentiala-a-desecretizat-informatiile-49173"
       }
     },
@@ -121,9 +133,17 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Sibiu100 – PÎCCJ opens the 2024 annulment file", "ro": "Sibiu100 – PÎCCJ deschide dosarul anulării din 2024" },
+        "label": {
+          "en": "Sibiu100 – PÎCCJ opens the 2024 annulment file",
+          "ro": "Sibiu100 – PÎCCJ deschide dosarul anulării din 2024"
+        },
         "url": "https://sibiu100.ro/eveniment/piccj-a-deschis-un-dosar-penal-privind-anularea-alegerilor-din-2024-peste-600-de-plangeri-in-atentia-procurorilor-klaus-iohannis-se-afla-pe-lista/"
       }
     }
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Fost președinte al României (2014–2025)",
+  "unverified": [
+    "Cronologia exactă a votului de suspendare din februarie 2025"
   ]
 }

@@ -31,7 +31,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "RFE/RL", "ro": "RFE/RL" },
+        "label": {
+          "en": "RFE/RL",
+          "ro": "RFE/RL"
+        },
         "url": "https://www.rferl.org/a/court-confirms-romania-ex-pm-ponta-committed-plagiarism/30725937.html"
       }
     },
@@ -56,7 +59,10 @@
         "open": false
       },
       "source": {
-        "label": { "en": "Counter Balance", "ro": "Counter Balance" },
+        "label": {
+          "en": "Counter Balance",
+          "ro": "Counter Balance"
+        },
         "url": "https://counter-balance.org/uploads/files/2016-Oltenia-Report.pdf"
       }
     },
@@ -81,7 +87,10 @@
         "open": false
       },
       "source": {
-        "label": { "en": "Wikipedia – Investigations involving Victor Ponta", "ro": "Wikipedia – Cercetări penal privind Victor Ponta" },
+        "label": {
+          "en": "Wikipedia – Investigations involving Victor Ponta",
+          "ro": "Wikipedia – Cercetări penal privind Victor Ponta"
+        },
         "url": "https://en.wikipedia.org/wiki/Investigations_involving_Victor_Ponta"
       }
     },
@@ -101,7 +110,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "BBC News", "ro": "BBC News" },
+        "label": {
+          "en": "BBC News",
+          "ro": "BBC News"
+        },
         "url": "https://www.bbc.com/news/world-europe-34722764"
       }
     },
@@ -126,7 +138,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "informat.ro", "ro": "informat.ro" },
+        "label": {
+          "en": "informat.ro",
+          "ro": "informat.ro"
+        },
         "url": "https://informat.ro/en/current-affairs/how-does-victor-ponta-comment-on-the-scandal-regarding-the-private-flight-to-mykonos-138078"
       }
     },
@@ -151,9 +166,17 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Adevărul", "ro": "Adevărul" },
+        "label": {
+          "en": "Adevărul",
+          "ro": "Adevărul"
+        },
         "url": "https://adevarul.ro/alegeri-prezidentiale-2025/victor-ponta-are-10-plangeri-penale-la-parchet-2436241.html"
       }
     }
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Fost prim-ministru; fără funcție executivă în noiembrie 2026",
+  "unverified": [
+    "Achitarea definitivă din 2023 în dosarul Turceni-Rovinari — de confirmat pe portal.just.ro"
   ]
 }

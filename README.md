@@ -1,6 +1,10 @@
 # Power Watch — Romanian Corruption Monitor
 
-A dynamic, data-driven watchdog site documenting the corruption and abuse-of-power records of the top 10 Romanian political figures with the power to rule — with real sources, quantified impact on the population, and a severity score.
+A dynamic, data-driven watchdog site documenting the corruption and abuse-of-power records of the top Romanian political figures — 11 people who held or influence power — with real sources, quantified impact on the population, and a severity score.
+
+> **Verification status (8 Nov 2026):** the data is being re-checked against primary sources. Current officeholders and functions are tracked in `../gathered_informations/05_institutii_si_legi/REPERE_2026.md`; corrections and unverified figures are listed in `CORECTII.md`. The site now shows `lastVerified` and `verifiedFunction` per person where available.
+>
+> **Important:** `power-watch` is an editorial watchdog, not a court. Allegations are attributed; presumption of innocence applies. Figures marked `unverified` in the JSON must not be treated as established facts.
 
 Live goals: deployable to **Vercel** (static site, zero build step), fully **EN / RO** bilingual.
 

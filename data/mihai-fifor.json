@@ -36,7 +36,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "TVR Info", "ro": "TVR Info" },
+        "label": {
+          "en": "TVR Info",
+          "ro": "TVR Info"
+        },
         "url": "https://tvrinfo.ro/fo-tii-mini-tri-mihai-fifor-i-razvan-cuc-au-dat-declara-ii-la-dna-timi-oara-dupa-ce-au-fost-cita-i-ca-martori-in-dosarul-pagilor-din-vama-nadlac_853834"
       }
     },
@@ -56,9 +59,17 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Opinia Timișoarei", "ro": "Opinia Timișoarei" },
+        "label": {
+          "en": "Opinia Timișoarei",
+          "ro": "Opinia Timișoarei"
+        },
         "url": "https://www.opiniatimisoarei.ro/perchezitii-dna-la-drdp-timisoara-si-la-sediul-psd-arad-3-parlamentari-vizati-intr-un-dosar-de-spaga-si-trafic-de-influenta-politicienii-dusi-la-audieri-foto-si-video/09/12/2019"
       }
     }
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Deputat PSD Arad; vicepreședinte al Comisiei pentru apărare",
+  "unverified": [
+    "Funcția de vicepremier nu a fost confirmată în această rundă"
   ]
 }

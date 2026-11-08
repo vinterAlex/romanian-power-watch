@@ -36,7 +36,10 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Reuters", "ro": "Reuters" },
+        "label": {
+          "en": "Reuters",
+          "ro": "Reuters"
+        },
         "url": "https://www.reuters.com/world/europe/romanian-minister-resigns-after-criticism-elderly-abuse-case-2023-07-14"
       }
     },
@@ -56,7 +59,10 @@
       },
       "money": 600000000,
       "source": {
-        "label": { "en": "Digi24", "ro": "Digi24" },
+        "label": {
+          "en": "Digi24",
+          "ro": "Digi24"
+        },
         "url": "https://www.digi24.ro/stiri/actualitate/politica/gabriela-firea-anunta-fuzionarea-companilor-municipale-e-nevoie-sa-restrangem-cheltuielile-1289845"
       }
     },
@@ -76,7 +82,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "Recorder", "ro": "Recorder" },
+        "label": {
+          "en": "Recorder",
+          "ro": "Recorder"
+        },
         "url": "https://recorder.ro/acuzatii-grave-din-interiorul-dna-dosare-blocate-si-prietenii-ale-conducerii-cu-suspecti-de-rang-inalt"
       }
     },
@@ -101,9 +110,14 @@
         "open": true
       },
       "source": {
-        "label": { "en": "Aktual24", "ro": "Aktual24" },
+        "label": {
+          "en": "Aktual24",
+          "ro": "Aktual24"
+        },
         "url": "https://www.aktual24.ro/dosar-penal-la-dna-si-eppo-in-care-apare-gabriela-firea-este-anchetat-modul-in-care-a-fost-atribuit-turcilor-contractul-pentru-achizitia-a-100-de-tramvaie/"
       }
     }
-  ]
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Europarlamentar PSD (din 2024); fost senator, fost primar general"
 }

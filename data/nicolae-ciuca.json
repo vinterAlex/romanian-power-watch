@@ -36,7 +36,10 @@
         "open": false
       },
       "source": {
-        "label": { "en": "PressOne", "ro": "PressOne" },
+        "label": {
+          "en": "PressOne",
+          "ro": "PressOne"
+        },
         "url": "https://pressone.ro/premierul-nicolae-ciuca-a-plagiat-in-teza-de-doctorat-printre-sursele-copiate-se-numara-alte-doua-teze-de-doctorat"
       }
     },
@@ -56,7 +59,10 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "RFE/RL", "ro": "RFE/RL" },
+        "label": {
+          "en": "RFE/RL",
+          "ro": "RFE/RL"
+        },
         "url": "https://www.rferl.org/a/romania-coalition-parliament-approved/31578618.html"
       }
     },
@@ -76,7 +82,10 @@
       },
       "money": 10000000,
       "source": {
-        "label": { "en": "Deutsche Welle", "ro": "Deutsche Welle" },
+        "label": {
+          "en": "Deutsche Welle",
+          "ro": "Deutsche Welle"
+        },
         "url": "https://www.dw.com/ro/analiz%C4%83-cum-%C8%99i-au-cump%C4%83rat-ciuc%C4%83-ciolacu-lini%C8%99tea/a-65498117"
       }
     },
@@ -96,9 +105,14 @@
       },
       "money": 0,
       "source": {
-        "label": { "en": "G4Media.ro", "ro": "G4Media.ro" },
+        "label": {
+          "en": "G4Media.ro",
+          "ro": "G4Media.ro"
+        },
         "url": "https://www.g4media.ro/degradare-accelerata-si-fara-precedent-a-democratiei-in-regimul-iohannis-ciuca-romania-e-redusa-la-tacere-pnl-se-psd-izeaza-rapid.html"
       }
     }
-  ]
+  ],
+  "lastVerified": "2026-11-08",
+  "verifiedFunction": "Fost prim-ministru; a demisionat din Senat la 5 februarie 2025"
 }
