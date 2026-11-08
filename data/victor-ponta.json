@@ -1,0 +1,159 @@
+{
+  "id": "victor-ponta",
+  "name": "Victor Ponta",
+  "party": "PSD",
+  "powerRank": 10,
+  "status": "former",
+  "statusLabel": {
+    "en": "Former Prime Minister (2012–2015); first sitting Romanian PM ever prosecuted for corruption, forced to resign in 2015; definitively acquitted in 2023; PhD revoked for plagiarism",
+    "ro": "Fost prim-ministru (2012–2015); primul premier român în funcție acuzat penal pentru corupție, silit să demisioneze în 2015; achitat definitiv în 2023; titlul de doctor i-a fost retras pentru plagiat"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Victor_Ponta_April_2025.jpg",
+  "severity": 6,
+  "summary": {
+    "en": "Four fall and re-emergence cycles: a PM whose PhD was revoked for copying over 100 pages, who was prosecuted while in office over invoiced services never delivered, who got his own former law-business partner promoted into government, and who resigned in 2015 during the Colectiv-fire protests. Courts definitively acquitted him in 2023 — noted here for the record.",
+    "ro": "Patru cicluri de cădere și reemergere: un premier al cărui titlu de doctor a fost retras pentru copierea a peste 100 de pagini, care a fost cercetat penal în funcție pentru servicii facturate fără a fi prestate, care l-a promovat în guvern pe fostul său partener de afaceri juridice și care a demisionat în 2015 în timpul protestelor de după Colectiv. Instanța l-a achitat definitiv în 2023 — menționat aici pentru record."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Plagiarised PhD: 115 of 297 pages copied — degree confirmed revoked by the High Court",
+        "ro": "Teză de doctorat plagiată: 115 din 297 de pagini copiate — retragerea titlului confirmată definitiv"
+      },
+      "date": "2012–2020",
+      "text": {
+        "en": "In 2012 the journal Nature revealed that large parts of Ponta's PhD thesis on the International Criminal Court were copied. The University of Bucharest's ethics committee found plagiarism on 115 of 297 pages; after years of litigation the High Court of Cassation and Justice confirmed in 2020 that he had plagiarised large parts of the thesis, and Ponta asked the university to take the 2003 degree back — which it did.",
+        "ro": "În 2012, revista Nature a dezvăluit că mari părți din teza lui Ponta despre Curtea Penală Internațională au fost copiate. Comisia de etică a Universității din București a stabilit plagiat pe 115 din 297 de pagini; după ani de proces, Înalta Curte de Casație și Justiție a confirmat în 2020 că a plagiat porțiuni ample din teză, iar Ponta i-a cerut universității să-i reia titlul din 2003 — ceea ce s-a întâmplat."
+      },
+      "impact": {
+        "en": "A sitting prime minister proven a plagiary; the episode triggered a national debate on the integrity of top officials and became the recurring label that followed him into his failed 2025 presidential run.",
+        "ro": "Un premier în funcție dovedit plagiator; episodul a declanșat o dezbatere națională despre integritatea demnitarilor și a devenit eticheta care l-a urmărit în candidatura eșuată la prezidențialele 2025."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "RFE/RL", "ro": "RFE/RL" },
+        "url": "https://www.rferl.org/a/court-confirms-romania-ex-pm-ponta-committed-plagiarism/30725937.html"
+      }
+    },
+    {
+      "title": {
+        "en": "Turceni–Rovinari: first sitting PM prosecuted for corruption (definitively acquitted in 2023)",
+        "ro": "Turceni–Rovinari: primul premier în funcție acuzat penal de corupție (achitat definitiv în 2023)"
+      },
+      "date": "2015–2023",
+      "text": {
+        "en": "DNA's June 2015 indictment made Ponta the first Romanian PM ever prosecuted for corruption, alleging that as a lawyer in 2007–2008 he issued ~17 invoices for about €40,000 (≈ RON 181,000) with no services rendered, through a 'professional cooperation' scheme with Dan Șova's law firm, generating a tax-evasion prejudice of RON 51,321.80. After 8 years of trial the High Court definitively acquitted him in December 2023, finding no crime had been committed; Ponta has always claimed the case was politically motivated.",
+        "ro": "Rechizitoriul DNA din iunie 2015 a făcut din Ponta primul premier român cercetat penal pentru corupție, susținând că, în calitate de avocat în 2007–2008, a emis circa 17 facturi de aproximativ 40.000 EUR (≈181.000 lei) fără servicii prestate, printr-o „convenție de colaborare” cu firma de avocatură a lui Dan Șova, generând un prejudiciu de evaziune fiscală de 51.321,80 lei. După 8 ani de proces, Înalta Curte l-a achitat definitiv în decembrie 2023, constatând că faptele nu au existat; Ponta a susținut întotdeauna că dosarul a fost politic."
+      },
+      "impact": {
+        "en": "The indictment and the surrounding anti-corruption wave forced him to resign as party leader and then as PM in November 2015, after the Colectiv fire; the episode crystallised the political crisis of the PSD era.",
+        "ro": "Rechizitoriul și valul anticorupție din jur l-au silit să demisioneze de la conducerea partidului și apoi din funcția de premier în noiembrie 2015, după incendiul din Colectiv; episodul a cristalizat criza politică a epocii PSD."
+      },
+      "money": 40000,
+      "caseStatus": {
+        "en": "Final acquittal (High Court, Dec 2023, 'no crime committed'); in the follow-on civil suit he filed against the state, first instance awarded him 24,706 lei — partially overturned by the Bucharest Court of Appeal (Dec 2025), not final",
+        "ro": "Achitat definitiv (Înalta Curte, decembrie 2023, „faptele nu au existat”); în procesul civil pe care l-a intentat statului, prima instanță i-a acordat 24.706 lei — parțial schimbată de Curtea de Apel București (dec. 2025), nedefinitivă",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "Counter Balance", "ro": "Counter Balance" },
+        "url": "https://counter-balance.org/uploads/files/2016-Oltenia-Report.pdf"
+      }
+    },
+    {
+      "title": {
+        "en": "Conflict of interest as PM: promoting former law partner Dan Șova to ministerial posts",
+        "ro": "Conflict de interese ca premier: promovarea fostului partener de avocatură Dan Șova în funcții de ministru"
+      },
+      "date": "2015",
+      "text": {
+        "en": "DNA asked Parliament to prosecute PM Ponta for conflict of interest because, as prime minister, he elevated Dan Șova — who had paid him through the same cooperation scheme and provided his car — to ministerial positions. The Chamber of Deputies rejected the request.",
+        "ro": "DNA a cerut Parlamentului să aprobe urmărirea penală a premierului Ponta pentru conflict de interese, deoarece, din funcția de prim-ministru, l-a promovat pe Dan Șova — cel care îl plătise prin aceeași convenție de colaborare și îi pusese mașina la dispoziție — în funcții de ministru. Camera Deputaților a respins cererea."
+      },
+      "impact": {
+        "en": "Parliament rejected lifting his immunity — emblematic of the political protection corrupt officials received at the time, and one of the triggers of the mass protests that ended with his resignation months later.",
+        "ro": "Parlamentul a respins ridicarea imunității — emblemă pentru protecția politică acordată oficialilor corupți la vremea respectivă și unul dintre declanșatorii protestelor de masă care s-au încheiat cu demisia lui, câteva luni mai târziu."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Closed – Parliament refused to lift his immunity (2015); DNA did not proceed against him personally",
+        "ro": "Închis – Parlamentul a respins ridicarea imunității (2015); DNA nu a continuat împotriva lui personal",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "Wikipedia – Investigations involving Victor Ponta", "ro": "Wikipedia – Cercetări penal privind Victor Ponta" },
+        "url": "https://en.wikipedia.org/wiki/Investigations_involving_Victor_Ponta"
+      }
+    },
+    {
+      "title": {
+        "en": "Colectiv fire: 60+ deaths in a system corrupted to the bone — PM forced out",
+        "ro": "Incendiul din Colectiv: peste 60 de morți într-un sistem corupt până în maduva — premierul silit să plece"
+      },
+      "date": "2015",
+      "text": {
+        "en": "On 30 October 2015 a fire in Bucharest's Colectiv club killed over 60 people; investigations revealed the club's permits had been obtained through corrupt means. Days of protests escalated into the largest street movement since 1989, demanding Ponta's resignation; he resigned on 4 November 2015.",
+        "ro": "Pe 30 octombrie 2015, un incendiu în clubul Colectiv din București a ucis peste 60 de persoane; anchetele au arătat că autorizațiile clubului fuseseră obținute prin mijloace corupte. Zile de proteste au escaladat în cea mai amplă mișcare stradală din 1989, cerând demisia lui Ponta; acesta a demisionat pe 4 noiembrie 2015."
+      },
+      "impact": {
+        "en": "60+ deaths and hundreds of burn victims (168 more died later in hospitals and clinics, some from infections traced to disinfectant fraud) exposed how corruption in the safety-inspection chain puts lives at risk.",
+        "ro": "Peste 60 de morți și sute de arși (alte 168 de decese ulterior în spitale și clinici, unele legate de dezinfectanți diluați) au expus modul în care corupția din lanțul inspecțiilor de siguranță pune în pericol vieți."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "BBC News", "ro": "BBC News" },
+        "url": "https://www.bbc.com/news/world-europe-34722764"
+      }
+    },
+    {
+      "title": {
+        "en": "2026: private flight to Mykonos with politicians, businessmen and magistrates — notified to DNA and ANI",
+        "ro": "2026: zbor privat la Mykonos, cu politicieni, oameni de afaceri și magistrați — sesizat la DNA și ANI"
+      },
+      "date": "2026",
+      "text": {
+        "en": "In September 2026 Ponta was publicly asked about a 8 July private flight to Mykonos carrying politicians, businesspeople and magistrates; he refused to say whom he met, saying the trip 'promoted Romania's economic interests' without public funds. USR deputy Emanuel Ungureanu notified DNA and the integrity agency ANI; results pending.",
+        "ro": "În septembrie 2026, Ponta a fost întrebat public despre un zbor privat de la 8 iulie la Mykonos, la care au participat politicieni, oameni de afaceri și magistrați; a refuzat să spună cu cine s-a întâlnit, susținând că voia să „promoveze interesele economice ale României” fără bani publici. Deputatul USR Emanuel Ungureanu a sesizat DNA și ANI; rezultatele urmează."
+      },
+      "impact": {
+        "en": "No damage established so far; transparency and justice questions remain over how politicians, businesspeople and magistrates ended up on the same private flight.",
+        "ro": "Niciun prejudiciu stabilit până acum; întrebări de transparență și de justiție rămân privind modul în care politicieni, oameni de afaceri și magistrați au ajuns în același zbor privat."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Active – DNA forwarded the complaint to the High Court's prosecution section (PÎCCJ) within 24h (11 Sept 2026); assessment stage; no suspect status",
+        "ro": "Activ – DNA a trimis sesizarea la Parchetul de pe lângă ÎCCJ în mai puțin de 24 de ore (11 sept. 2026); fază de evaluare; fără calitate de suspect",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "informat.ro", "ro": "informat.ro" },
+        "url": "https://informat.ro/en/current-affairs/how-does-victor-ponta-comment-on-the-scandal-regarding-the-private-flight-to-mykonos-138078"
+      }
+    },
+    {
+      "title": {
+        "en": "Porțile de Fier: his own admission that, as PM, he opened the dams to spare Belgrade — flooding Romanian villages; ~10 criminal complaints",
+        "ro": "Porțile de Fier: propria mărturisire că, în calitate de premier, a deschis barajele ca să salveze Belgradul — cu sate românești inundate; circa 10 plângeri penale"
+      },
+      "date": "2025",
+      "text": {
+        "en": "In 2025, Ponta publicly stated that in 2014, as prime minister, he ordered the Iron Gates (Porțile de Fier) dams opened to spare Belgrade from flooding — accepting that Romanian settlements on the Danube would take the water instead. After the statements spread, roughly 10 criminal complaints were filed at the General Prosecutor's Office — among them by DREPT's Vlad Gheorghe and REPER politicians — alleging high treason and culpable homicide. Prosecutors constituted an in rem file and analyzed partial referral to DIICOT; through late 2026 nobody had been charged and the file showed no public progress.",
+        "ro": "În 2025, Ponta a declarat public că, în 2014, în calitate de premier, a ordonat deschiderea barajelor de la Porțile de Fier pentru a salva Belgradul — acceptând ca localitățile românești de pe Dunăre să preia apa. După răspândirea declarațiilor, circa 10 plângeri penale au ajuns la Parchetul General — printre depunători, Vlad Gheorghe (DREPT) și politicieni REPER — pentru înaltă trădare și omor calificat. Procurorii au constituit un dosar in rem și au analizat declinarea parțială la DIICOT; până la finele lui 2026 nimeni nu fusese incomodat de procurori și dosarul nu arăta niciun progres public."
+      },
+      "impact": {
+        "en": "Romanian river-side villages took the Danube's flood so that Belgrade would not — an admitted trade with the safety of Romanian citizens, now subject of treason complaints; no public answer six years later.",
+        "ro": "Satele românești de lângă Dunăre au suportat inundația pentru ca Belgradul să nu la suporte — un troc recunoscut cu siguranța cetățenilor români, acum subiect de plângeri de înaltă trădare; fără răspuns public la șase ani distanță."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "In rem file constituted at the General Prosecutor's Office (~10 complaints); nobody charged; dormant through late 2026",
+        "ro": "Dosar in rem constituit la Parchetul General (circa 10 plângeri); nimeni trimis în judecată; latent până la finele lui 2026",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Adevărul", "ro": "Adevărul" },
+        "url": "https://adevarul.ro/alegeri-prezidentiale-2025/victor-ponta-are-10-plangeri-penale-la-parchet-2436241.html"
+      }
+    }
+  ]
+}

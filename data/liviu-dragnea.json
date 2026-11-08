@@ -1,0 +1,114 @@
+﻿{
+  "id": "liviu-dragnea",
+  "name": "Liviu Dragnea",
+  "party": "PSD",
+  "powerRank": 11,
+  "status": "convicted",
+  "statusLabel": {
+    "en": "Convicted: definitively sentenced to 3 years and 6 months for incitement to abuse of office (fictitious public jobs); jailed 2019–2021, then paroled; banned from entering the US; barred from public office until July 2024",
+    "ro": "Condamnat: sentință definitivă de 3 ani și 6 luni pentru instigare la abuz în serviciu (angajări fictive); închis 2019–2021, apoi eliberat condiționat; interzis în SUA; exclus de la funcții publice până în iulie 2024"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Liviu_Dragnea%2C_20190309-01.jpg",
+  "severity": 9,
+  "summary": {
+    "en": "The most powerful Romanian politician of his era — Speaker of the Chamber, PSD leader, kingmaker of several governments — ended up a convicted criminal, twice, even as his party kept ruling around him. He tried to decriminalize the very offenses he was convicted of.",
+    "ro": "Cel mai puternic politician român al epocii sale — președinte al Camerei Deputaților, lider PSD, arhitectul mai multor guverne — a ajuns condamnat penal de două ori, în timp ce partidul său continua să guverneze. A încercat să decriminalizeze exact infracțiunile pentru care a fost condamnat."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Fictitious hirings at the Teleorman Child Protection Agency — 3.5 years in prison",
+        "ro": "Angajări fictive la Direcția de Protecția Copilului Teleorman — 3 ani și 6 luni de închisoare"
+      },
+      "date": "2016–2019",
+      "text": {
+        "en": "As head of Teleorman County Council, Dragnea was definitively convicted by the High Court of Cassation and Justice (27 May 2019) for incitement to abuse of office: two PSD members were kept on public payrolls at the county child-protection agency for years without ever showing up to work, while actually working at the PSD Teleorman headquarters.",
+        "ro": "Ca șef al Consiliului Județean Teleorman, Dragnea a fost condamnat definitiv de Înalta Curte de Casație și Justiție (27 mai 2019) pentru instigare la abuz în serviciu: două membre PSD au fost menținute ilegal în funcții plătite din bani publici la agenția de protecția copilului, deși nu s-au prezentat niciodată la muncă, ci au lucrat la sediul PSD Teleorman."
+      },
+      "impact": {
+        "en": "Public money earmarked for child protection paid party loyalists for years while children in the county's care system got nothing extra; Dragnea — sitting Speaker of the Chamber of Deputies — became Romania's highest-ranking imprisoned politician for corruption.",
+        "ro": "Banii publici destinați protecției copilului au plătit ani de zile oameni de partid, în timp ce copiii din sistemul județului nu au primit nimic în plus; Dragnea — aflat în funcția de președinte al Camerei Deputaților — a devenit cel mai înalt politician român încarcerat pentru corupție."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Final conviction: entered Rahova prison 27 May 2019; paroled by Giurgiu Court 15 July 2021 after serving 2y 2m — sentence fully served",
+        "ro": "Condamnare definitivă: a intrat la Rahova pe 27 mai 2019; eliberat condiționat de Tribunalul Giurgiu pe 15 iulie 2021, după 2 ani și 2 luni — pedeapsă executată integral",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "Euronews", "ro": "Euronews" },
+        "url": "https://www.euronews.com/2019/05/29/how-romania-s-most-powerful-politician-ended-up-in-jail"
+      }
+    },
+    {
+      "title": {
+        "en": "Tel Drum: EU-funds fraud, abuse of office and an organized criminal group (~€20 m)",
+        "ro": "Tel Drum: fraudă cu fonduri europene, abuz în serviciu și constituire a unui grup infracțional (circa 20 milioane EUR)"
+      },
+      "date": "2016–2022",
+      "text": {
+        "en": "Acting on an OLAF tip-off, DNA alleged Dragnea actually controlled Tel Drum, the Teleorman County Council construction company: inflated state contracts, defrauded EU funds (~€20 m in damages cited), over RON 127 m in assets sequestrated. He was sent to court in October 2022 along with the company and eight others — but the case has been stuck in preliminary-chamber procedure for over four years: all SRI interception evidence was excluded (ruling confirmed definitively by the High Court on 1 October 2025), the trial on the merits has never started, and most counts are expected to fall to the statute of limitations.",
+        "ro": "Pornind de la o sesizare OLAF, DNA a susținut că Dragnea controla în ultima instanță Tel Drum, societatea de construcții a Consiliului Județean Teleorman: contracte publice supraevaluate, fonduri europene fraudate (prejudiciu citat de circa 20 milioane EUR), bunuri de peste 127 milioane lei sechestrate. A fost trimis în judecată în octombrie 2022 împreună cu firma și alți opt oameni; dosarul e blocat de peste 4 ani în cameră preliminară — probele din interceptările SRI au fost excluse (decizia confirmată definitiv de ÎCCJ la 1 octombrie 2025), judecata pe fond nici nu a început, iar majoritatea faptelor se așteaptă să fie ștearse prin prescripție."
+      },
+      "impact": {
+        "en": "EU money earmarked for public road works in Teleorman allegedly drained into a party-controlled company; the money owed back to Brussels was ultimately returned from the Romanian state budget — i.e. Romanian taxpayers covered the damage.",
+        "ro": "Banii europeni destinați drumurilor publice din Teleorman au fost, potrivit procurorilor, deviați spre o firmă controlată de partid; datoria spre Bruxelles a fost returnată, în final, din bugetul de stat — deci contribuabilii români au suportat prejudiciul."
+      },
+      "money": 20000000,
+      "caseStatus": {
+        "en": "Sent to court Oct 2022; stuck 4+ years in preliminary-chamber procedure — SRI intercept evidence definitively excluded (High Court, 1 Oct 2025); merits trial never started; most counts expected to fall to prescription",
+        "ro": "Trimis în judecată în oct. 2022; blocat de peste 4 ani în cameră preliminară — interceptările SRI excluse definitiv (ÎCCJ, 1 oct. 2025); judecata pe fond nu a început; majoritatea faptelor așteaptă prescripția",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Romania Insider", "ro": "Romania Insider" },
+        "url": "https://www.romania-insider.com/society/liviu-dragnea-sent-court-corruption-case-2022"
+      }
+    },
+    {
+      "title": {
+        "en": "Two-year suspended sentence for referendum fraud and a US entry ban over 'significant corruption'",
+        "ro": "Pedeapsă de 2 ani cu suspendare pentru fraudarea referendumului și interdicție de intrare în SUA pentru „corupție semnificativă”"
+      },
+      "date": "2016–2017",
+      "text": {
+        "en": "In 2016 Dragnea received a suspended 2-year sentence for electoral fraud for orchestrating the 2012 impeachment referendum against President Băsescu. In 2017 the US government barred Dragnea and his two children from entering the United States over involvement in 'significant corruption'. As PSD leader he also pushed Ordonanța 114, an attempt to decriminalize forms of abuse of office, withdrawn after mass protests.",
+        "ro": "În 2016 Dragnea a primit o pedeapsă de 2 ani cu suspendare pentru fraudarea referendumului din 2012 de suspendare a președintelui Băsescu. În 2017 guvernul SUA i-a interzis intrarea în Statele Unite, inclusiv copiilor săi, pentru implicare în „corupție semnificativă”. Ca lider PSD a împins Ordonanța 114, o tentativă de decriminalizare a abuzului în serviciu, retrasă după proteste de masă."
+      },
+      "impact": {
+        "en": "Courts declared the referendum fraudulent; the US ban cemented his international record; tens of thousands of Romanians protested against his legislative attempts to weaken anti-corruption rules from power.",
+        "ro": "Instanțele au stabilit că referendumul a fost fraudat; interdicția americană a consolidat recordul său internațional; zeci de mii de români au protestat contra tentativei legislative de slăbire a normelor anticorupție de la guvernare."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Final: 2-year suspended sentence confirmed Dec 2019; probation has since expired",
+        "ro": "Definitiv: 2 ani cu suspendare, confirmati în decembrie 2019; termenul de încercare a expirat",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "Radio Romania International", "ro": "Radio România Internațional" },
+        "url": "https://www.rri.ro/en/news-and-current-affairs/today-in-the-news/prison-sentence-for-the-social-democrat-leader-liviu-dragnea-id78232.html"
+      }
+    },
+    {
+      "title": {
+        "en": "Still shaping politics after prison",
+        "ro": "Încă influent politic după închisoare"
+      },
+      "date": "2026",
+      "text": {
+        "en": "Although barred from office, the twice-convicted ex-baron remains publicly active via TV and social media, claiming to be a 'political prisoner' and advising PSD during the 2026 government crisis that toppled PM Bolojan; analysts warn of a drift 'back to the Dragnea era' as PSD and AUR fight over public resources and judiciary control.",
+        "ro": "Deși are interdicție de a deține funcții, fostul baron, condamnat de două ori, rămâne activ public prin TV și rețele sociale, susținând că este „prizonier politic” și consiliind PSD în criza guvernamentală din 2026 care a răsturnat guvernul Bolojan; analiști avertizează asupra unui „retur la epoca Dragnea”, în timp ce PSD și AUR se aliază în lupta pentru resursele publice și controlul justiției."
+      },
+      "impact": {
+        "en": "The mainstream airtime given to a twice-convicted politician signals the erosion of anti-corruption norms; PSD ratings fell from over 40% in his era to below 20% in 2026.",
+        "ro": "Timpul de anten acordat unui politician condamnat de două ori semnalează eroziunea normelor anticorupție; ratingul PSD a scăzut de la peste 40% în epoca lui la sub 20% în 2026."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Gazeta de Sud", "ro": "Gazeta de Sud" },
+        "url": "https://www.gds.ro/politica/2026-07-14/liviu-dragnea-liderii-psd-au-fost-siguri-ca-l-vor-da-jos-pe-ilie-bolojan-si-nu-au-avut-niciun-plan-de-rezerva"
+      }
+    }
+  ]
+}

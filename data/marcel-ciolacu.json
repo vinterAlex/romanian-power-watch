@@ -1,0 +1,204 @@
+{
+  "id": "marcel-ciolacu",
+  "name": "Marcel Ciolacu",
+  "party": "PSD",
+  "powerRank": 7,
+  "status": "former",
+  "statusLabel": {
+    "en": "Former Prime Minister (2023–2025) and former PSD leader (2019–2025); left national office after the 2024–2025 electoral defeats",
+    "ro": "Fost prim-ministru (2023–2025) și fost lider PSD (2019–2025); a părăsit funcțiile naționale după înfrângerile electorale din 2024–2025"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Marcel_Ciolacu_%2818_January_2024%29_%28cropped%29.jpg/500px-Marcel_Ciolacu_%2818_January_2024%29_%28cropped%29.jpg",
+  "severity": 7,
+  "summary": {
+    "en": "The PSD baron from Buzău who climbed from the countryside to the premiership. His record: a conflict-of-interest finding by the Court of Accounts, undeclared luxury flights on a private jet chartered by a developer that later went insolvent, a suspect 'revolutionary' certificate he defended while suing the state for more privileges, and a cabinet term that left Romania with the EU's highest inflation and its largest deficit when he walked away.",
+    "ro": "Baronul PSD din Buzău, urcat de la țară până la funcția de premier. Bilanțul său: o constatare de conflict de interese la Curtea de Conturi, zboruri de lux nedeclarate cu un jet privat închiriat de un dezvoltator ulterior intrat în insolvență, un certificat de revoluționar suspect pe care l-a apărat în timp ce dădea statul în judecată pentru privilegiuri suplimentare, plus un mandat de premier care a lăsat România cu cea mai mare inflație din UE și cel mai mare deficit la momentul plecării."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Court of Accounts: conflict of interest and ~€1.3 m overpricing in Buzău street works",
+        "ro": "Curtea de Conturi: conflict de interese și supraîncărcarea cu ~1,3 mil. EUR a lucrărilor de străzi din Buzău"
+      },
+      "date": "2009",
+      "text": {
+        "en": "The Buzău Court of Accounts found that Urbis Serv — the municipal company Ciolacu headed in 2007–2008 — generated an illegal contract with Mecan Construct, owned by a PSD county councillor, inflating street and sidewalk works by approximately €1.3 million. A separate DNA criminal file was later closed without charges; Ciolacu contests the finding.",
+        "ro": "Curtea de Conturi a județului Buzău a constatat că Urbis Serv — firma municipală condusă de Ciolacu în 2007–2008 — a generat un contract ilegal cu Mecan Construct, deținută de un consilier județean PSD, supraîncărcând lucrările de străzi și trotuare cu aproximativ 1,3 milioane de euro. Un dosar penal DNA separat a fost ulterior clasat; Ciolacu contestă concluziile."
+      },
+      "impact": {
+        "en": "Local budgets lost an estimated €1.3 m through the dubious allocation — the textbook illustration of the PSD Buzău clientelist machine that put Ciolacu at the head of the state's budget.",
+        "ro": "Bugetele locale au pierdut circa 1,3 mil. EUR prin alocarea dubioasă — Ilustrirea asta a mașinii clienteliste din PSD Buzău care l-a urcat pe Ciolacu la șefia bugetului de stat."
+      },
+      "money": 1300000,
+      "caseStatus": {
+        "en": "Closed – DNA decided not to open prosecution (confirmed 2023); Ciolacu contests the Court of Accounts finding",
+        "ro": "Închis – DNA a decis neînceperea urmăririi penale (confirmat 2023); Ciolacu contestă constatarea Curții de Conturi",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "Wikipedia – Marcel Ciolacu", "ro": "Wikipedia – Marcel Ciolacu" },
+        "url": "https://en.wikipedia.org/wiki/Marcel_Ciolacu"
+      }
+    },
+    {
+      "title": {
+        "en": "Undeclared luxury flights on a private jet chartered by insolvent developer Nordis",
+        "ro": "Zboruri de lux nedeclarate cu jet privat închiriat de dezvoltatorul insolvent Nordis"
+      },
+      "date": "2024",
+      "text": {
+        "en": "G4Media published flight documentation proving Ciolacu, Sorin Grindeanu, Alfred Simonis and Laura Vicol flew in 2022 on a private Gulfstream 200 chartered by the Nordis Group — which entered insolvency in October 2024 — including trips to the Monaco F1 Grand Prix and Paris. None declared the benefit in their asset declarations, as the law requires for gifts over €500; a round trip with a technical stop was reported at about €60,000.",
+        "ro": "G4Media a publicat documente de zbor care demonstrează că Ciolacu, Sorin Grindeanu, Alfred Simonis și Laura Vicol au zburat în 2022 cu un Gulfstream 200 privat închiriat de Grupul Nordis — intrat în insolvență în octombrie 2024 — inclusiv la Marele Premiu F1 de la Monaco și la Paris. Nimeni nu a declarat avantajul în declarațiile de avere, deși legea cere declararea darurilor peste 500 EUR; o cursă dus-întors, cu escala la Paris, a fost estimată la circa 60.000 de euro."
+      },
+      "impact": {
+        "en": "Nordis's insolvency left over 400 creditors — many of them apartment buyers — while the politicians its owner flew around avoided declaring the benefits in their official declarations.",
+        "ro": "Insolvența Nordis a lăsat peste 400 de creditori — mulți cumpărători de apartamente — în timp ce politicienii pe care firma i-a dus în lux nu au declarat niciodată beneficiile în declarațiile oficiale."
+      },
+      "money": 60000,
+      "caseStatus": {
+        "en": "Active – DNA: criminal complaint filed 30 Dec 2024 by two USR deputies (fraud/failure to declare); over a year later the complainant was heard as witness (Feb 2026); no suspect status made public",
+        "ro": "Activ – DNA: plângere penală depusă la 30 dec. 2024 de doi deputați USR (înșelăciune/omitere de declarare); după peste un an, plângătorul a fost audiat ca martor (febr. 2026); fără calitate publică de suspect",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "G4Media.ro", "ro": "G4Media.ro" },
+        "url": "https://www.g4media.ro/exclusiv-dovada-ca-liderii-psd-marcel-ciolacu-grindeanu-simonis-si-laura-vicol-au-zburat-cu-jetul-privat-inchiriat-de-nordis-o-distractie-la-nisa-si-la-paris-documentata-pe-ore-totul-despre-cele.html"
+      }
+    },
+    {
+      "title": {
+        "en": "Suspect 'revolutionary' certificate — and a lawsuit against the state for bigger privileges",
+        "ro": "Certificat de revoluționar suspect — și proces împotriva statului pentru privilegiuri mai mari"
+      },
+      "date": "2023",
+      "text": {
+        "en": "Recorder's investigation found Ciolacu's 1992 revolutionary file contains a suspicion of forged public documents, contradictions about where he worked in December 1989 and no corroborating witnesses — yet the certificate brought him a 1-hectare plot he later sold for profit. As sitting PM he sued his own Revolutionary Secretariat for the higher 'determinant role' title, worth over €40,000 in retroactive allowances.",
+        "ro": "Investigația Recorder a arătat că dosarul de revoluționar al lui Ciolacu din 1992 conține o suspiciune de fals în acte publice, contradicții despre locul de muncă din decembrie 1989 și niciun martor coroborant — totuși certificatul i-a adus un teren de 1 hectar, vândut apoi cu profit. În calitate de premier în funcție, a dat în judecată propriul Secretariat pentru Revoluționari, cerând titlul superior „luptător cu rol determinant”, în valoare de peste 40.000 de euro în indemnizații retroactive."
+      },
+      "impact": {
+        "en": "State money and land allotted to unverified revolutionaries kept enriching politicians while genuine December 1989 victims remain uncompensated.",
+        "ro": "Bani și terenuri alocate la nivel de stat unor revoluționari neverificați au continuat să îmbogățească politicieni, în timp ce victimele reale din decembrie 1989 rămân necompensate."
+      },
+      "money": 40000,
+      "caseStatus": {
+        "en": "Closed – DNA file on the certificate classed definitively 17 Mar 2023 ('the deed is not provided for by criminal law'); his higher title claim rejected administratively (Jun 2023)",
+        "ro": "Închis – dosarul DNA privind certificatul a fost clasat definitiv la 17 martie 2023 („fapta nu este prevăzută de legea penală”); cererea pentru titlul superior respinsă administrativ (iun. 2023)",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "Recorder", "ro": "Recorder" },
+        "url": "https://recorder.ro/erou-sau-impostor-ce-am-gasit-in-dosarul-de-revolutionar-al-lui-marcel-ciolacu/"
+      }
+    },
+    {
+      "title": {
+        "en": "Economic record: EU's highest inflation and the largest budget deficit in the bloc",
+        "ro": "Record economic: cea mai mare inflație din UE și cel mai mare deficit bugetar din bloc"
+      },
+      "date": "2023–2025",
+      "text": {
+        "en": "Under Ciolacu's cabinets Romania reached its highest ever external debt, and by January 2024 annual inflation hit 7.3% — the highest in the EU, nearly double the bloc average. The deficit ballooned to 9.3% of GDP in 2024, the worst in the EU, forcing his successor into brutal austerity.",
+        "ro": "Sub cabinetele Ciolacu, România a atins cel mai ridicat nivel al datoriei externe din istorie, iar în ianuarie 2024 inflația anuală a urcat la 7,3% — cea mai mare din UE, aproape dublă față de media blocului. Deficitul a explodat la 9,3% din PIB în 2024, cel mai mare din UE, obligând succesorul său la austeritate brutală."
+      },
+      "impact": {
+        "en": "Households and firms absorbed double-digit cost-of-living increases and near-junk borrowing costs; every Romanian consumer is still paying for that deficit through the VAT and excise hikes of 2025–2026.",
+        "ro": "Gospodăriile și firmele au suferit majorări ale costului vieții cu cifre record și costuri de împrumut aproape de nivelul junk; orice consumator român plătește încă acest deficit prin majorările de TVA și accize din 2025–2026."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Digi24", "ro": "Digi24" },
+        "url": "https://www.euronews.com/2024/03/05/inflation-in-europe-which-countries-have-the-highest-and-lowest-inflation-rates"
+      }
+    },
+    {
+      "title": {
+        "en": "Held on to power after humiliating electoral collapse, then walked away",
+        "ro": "A râmas la putere după colapsul electoral humilitor, apoi a plecat pur și simplu"
+      },
+      "date": "2024–2025",
+      "text": {
+        "en": "In the 24 November 2024 first round Ciolacu finished third with 19.15%, missing the runoff by roughly 2,700 votes, amid criticism over his campaign's luxury jet use. He offered to resign as party leader but kept being Prime Minister until the government was dropped in May 2025, hours after his party's presidential candidate lost the rerun's first round.",
+        "ro": "În primul tur din 24 noiembrie 2024, Ciolacu a terminat doar al treilea, cu 19,15%, ratând turul doi cu circa 2.700 de voturi, pe fondul criticilor pentru utilizarea jeturilor de lux în campanie. A oferit demisia de la conducerea PSD, dar a rămas premier până la căderea guvernului în mai 2025, câteva ore după ce candidatul PSD la prezidențiale a pierdut primul tur al repetiției."
+      },
+      "impact": {
+        "en": "His grip on both government and party through a scandal-laden collapse deepened the political vacuum in which the far right grew to 30%+ nationally.",
+        "ro": "Prinderea lui de putere atât asupra guvernului, cât și asupra partidului, pe fondul unui colaps plin de scandal, a adâncit vidul politic în care dreapta radicală a urcat la peste 30% la nivel de țară."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Politico Europe", "ro": "Politico Europe" },
+        "url": "https://www.politico.eu/article/romania-prime-minister-marcel-ciolacu-resignation-presidential-election/"
+      }
+    },
+    {
+      "title": {
+        "en": "Buying press silence with public money during his cabinets",
+        "ro": "Cumpărarea tăcerii presei cu bani publici în cabinetele sale"
+      },
+      "date": "2022–2023",
+      "text": {
+        "en": "DW's analysis, citing a Recorder investigation and the US State Department human rights report, shows that in just the first seven months of 2022 PSD and PNL spent over €10 m on contracts with friendly media outlets for undisclosed pro-government coverage — while his cabinets pushed justice-law changes and a soaring budget.",
+        "ro": "Analiza DW, citând o investigație Recorder și raportul Departamentului de Stat al SUA, arată că, doar în primele șapte luni din 2022, PSD și PNL au cheltuit peste 10 milioane de euro pe contracte cu trusturi media „prietene” pentru acoperiri pro-guvernamentale nedezvăluite — în timp ce cabinetele lui modificau legile justiției și umflau bugetul."
+      },
+      "impact": {
+        "en": "Tax-funded propaganda replaced accountability exactly while justice laws were being rewritten and public spending accelerated.",
+        "ro": "Propaganda finanțată din bani publici a înlocuit responsabilizarea exact în perioada în care legile justiției se rescriau și cheltuielile publice accelerau."
+      },
+      "money": 10000000,
+      "source": {
+        "label": { "en": "Deutsche Welle", "ro": "Deutsche Welle" },
+        "url": "https://www.dw.com/ro/analiz%C4%83-cum-%C8%99i-au-cump%C4%83rat-ciuc%C4%83-ciolacu-lini%C8%99tea/a-65498117"
+      }
+    },
+    {
+      "title": {
+        "en": "Now in the election-annulment criminal file (in rem, PÎCCJ 48/76/P/2026)",
+        "ro": "Acum în dosarul penal al anulării alegerilor (in rem, PÎCCJ 48/76/P/2026)"
+      },
+      "date": "2026",
+      "text": {
+        "en": "In the in rem criminal prosecution opened on 27 July 2026 by the High Court's criminal-prosecution section over the annulment of the 2024 presidential runoff, 'former PM Marcel Ciolacu and several ministers' are among the categories of persons named in the 600+ complaints (alongside Iohannis, CCR judges and magistrates). No one has suspect status publicly; the prosecution remains non-public as of November 2026.",
+        "ro": "În urmărirea penală in rem începută la 27 iulie 2026 de secția de urmărire penală a Înaltei Curți privind anularea turului al doilea din 2024, „fostul premier Marcel Ciolacu și mai mulți miniștri” figurează printre persoanele indicate în cele 600+ de plângeri (alături de Iohannis, judecătorii CCR și magistrați). Nimeni nu are public calitatea de suspect; urmărirea rămâne nepublică până în noiembrie 2026."
+      },
+      "impact": {
+        "en": "The political machinery that ran the 2023–2025 coalition is now partly inside a criminal investigation over the annulment that stunned the electorate.",
+        "ro": "Ansamblul de mașina politică care a condus coaliția din 2023–2025 e acum, parțial, în interiorul unei anchete penale privind anularea care a încheiat electoratul."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Active – in rem, file 48/76/P/2026 (opened 27 Jul 2026); no suspect status public; non-public as of Nov 2026",
+        "ro": "Activ – in rem, dosar 48/76/P/2026 (început la 27 iulie 2026); fără calitate publică de suspect; nepublic până în noiembrie 2026",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Sibiu100 – PÎCCJ opens the annulment file", "ro": "Sibiu100 – PÎCCJ deschide dosarul anulării" },
+        "url": "https://sibiu100.ro/eveniment/piccj-a-deschis-un-dosar-penal-privind-anularea-alegerilor-din-2024-peste-600-de-plangeri-in-atentia-procurorilor-klaus-iohannis-se-afla-pe-lista/"
+      }
+    },
+    {
+      "title": {
+        "en": "DREPT complaint: 'false data to Parliament' and ~65 bn lei of discretionary reserve-fund spending",
+        "ro": "Plângerea DREPT: „date false prezentate Parlamentului” și cheltuirea discreționară a ~65 de miliarde lei din fondul de rezervă"
+      },
+      "date": "2025",
+      "text": {
+        "en": "In July 2025, DREPT party leader Vlad Gheorghe filed a criminal complaint at the High Court's prosecution section accusing Ciolacu of knowingly presenting false fiscal data to Parliament and of discretionary use of roughly 65 billion lei from the government's reserve fund under his cabinets. No personal criminal file has emerged publicly from the complaint; Ciolacu publicly said he fears nothing — 'I stole nothing'.",
+        "ro": "În iulie 2025, liderul partidului DREPT, Vlad Gheorghe, a depus la Parchetul de pe lângă Înalta Curte o plângere penală acuzându-l pe Ciolacu că a prezentat cu rea-credință date fiscale false Parlamentului și că a folosit discreționar circa 65 de miliarde lei din fondul de rezervă al guvernului în cabinetele sale. Din plângere nu a răsărit public niciun dosar penal personal; Ciolacu a declarat public că nu se teme — „n-am furat nimic”."
+      },
+      "impact": {
+        "en": "The complaint targets the same fiscal fog his cabinets left behind: numbers presented to Parliament that even the Constitutional Court's presidents called unrealistic, and reserve spending that citizens cannot audit.",
+        "ro": "Plângerea se îndreaptă spre aceeași ceață fiscală lăsată înapoi de cabinetele lui: cifre prezentate Parlamentului pe care niciun analist nu le-a putut verifica și cheltuieli de rezervă pe care cetățenii nu le pot audita."
+      },
+      "money": 13000000000,
+      "caseStatus": {
+        "en": "Dormant – complaint filed Jul 2025 at the High Court's prosecution section; no public record of an opened personal file",
+        "ro": "Latent – plângere depusă în iulie 2025 la Parchetul Înaltei Curți; nicio urmă publică a deschiderii unui dosar personal",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Adevărul", "ro": "Adevărul" },
+        "url": "https://adevarul.ro/politica/plangere-penala-impotriva-lui-marcel-ciolacu-a-2455244.html"
+      }
+    }
+  ]
+}

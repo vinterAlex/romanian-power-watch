@@ -1,0 +1,129 @@
+{
+  "id": "klaus-iohannis",
+  "name": "Klaus Iohannis",
+  "party": "PNL",
+  "powerRank": 8,
+  "status": "former",
+  "statusLabel": {
+    "en": "Former President of Romania (2014–2025); resigned in February 2025 one day before an impeachment vote in Parliament",
+    "ro": "Fost președinte al României (2014–2025); a demisionat în februarie 2025, cu o zi înainte de votul de suspendare din Parlament"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Klaus_Iohannis_-_Feb_2024.jpg/500px-Klaus_Iohannis_-_Feb_2024.jpg",
+  "severity": 8,
+  "summary": {
+    "en": "Elected twice to fight corruption, he spent his decade at Cotroceni dismantling the justice reforms he inherited, tolerating record budget deficits, and ending his mandate in a constitutional crisis after the annulled 2024 presidential election.",
+    "ro": "Ales de două ori să lupte împotriva corupției, și-a petrecut deceniul la Cotroceni demontând reformele justiției pe care le-a moștenit, tolerând deficite bugetare record și închizându-și mandatul într-o criză constituțională după anularea alegerilor prezidențiale din 2024."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Staying in office after his term expired – Romania left without a legitimate president",
+        "ro": "Rămas în funcție după expirarea mandatului – România lăsată fără președinte legitim"
+      },
+      "date": "2024–2025",
+      "text": {
+        "en": "After the Constitutional Court annulled the first round of the 2024 presidential election (won by Călin Georgescu) following declassified intelligence on foreign interference, Iohannis refused to leave office after his second mandate expired on 21 December 2024, claiming a seat at European Council meetings kept him in power.",
+        "ro": "După ce Curtea Constituțională a anulat primul tur al alegerilor prezidențiale din 2024 (câștigat de Călin Georgescu), pe baza documentelor de inteligență desecretizate privind ingerințe străine, Iohannis a refuzat să părăsească funcția după expirarea celui de-al doilea mandat, pe 21 decembrie 2024, susținând că prezența la reuniunile Consiliului European îl menține în putere."
+      },
+      "impact": {
+        "en": "Tens of thousands protested („Hoți”, „Jos dictatura”), police used tear gas, the presidential rerun was pushed months ahead, and Romania — an EU and NATO member — spent the winter without a constitutional head of state.",
+        "ro": "Zeci de mii de oameni au protestat („Hoți”, „Jos dictatura”), poliția a folosit gaz lacrimogen, repetarea alegerilor a fost amânată cu luni, iar România — stat UE și NATO — a petrecut iarna fără un șef de stat constituțional."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "France 24", "ro": "France 24" },
+        "url": "https://www.france24.com/en/live-news/20241208-thieves-romanians-demand-to-vote-after-scrapped-elections"
+      }
+    },
+    {
+      "title": {
+        "en": "Forced resignation ahead of impeachment vote",
+        "ro": "Demisie forțată cu o zi înainte de votul de suspendare"
+      },
+      "date": "2025",
+      "text": {
+        "en": "In January 2025, three opposition parties holding ~35% of parliamentary seats filed a motion to suspend him over the cancelled election and his refusal to step down. He resigned on 10 February 2025, one day before the vote, arguing that removal would have looked 'negative abroad'.",
+        "ro": "În ianuarie 2025, trei partide de opoziție care controlau circa 35% din locurile din Parlament au depus o moțiune de suspendare pentru alegerile anulate și refuzul de a pleca. A demisionat pe 10 februarie 2025, cu o zi înainte de vot, argumentând că demiterea ar fi fost „negativă în exterior”."
+      },
+      "impact": {
+        "en": "The president elected to defend rule-of-law credibility left office amid the deepest legitimacy crisis since 1989; populists had spent his mandate converting them into insurgents against the state.",
+        "ro": "Președintele ales să apere credibilitatea statului de drept a părăsit funcția în mijlocul celei mai adânci crize de legitimitate din 1989; populismul de dreapta a crescut constant în guvernarea lui."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "BBC", "ro": "BBC" },
+        "url": "https://www.bbc.com/news/articles/c3w805xjg1xo"
+      }
+    },
+    {
+      "title": {
+        "en": "Democratic backsliding: €80 bn in EU funds and the silence of the press",
+        "ro": "Retrogradare democratică: 80 de miliarde EUR din fonduri europene și tăcerea presei"
+      },
+      "date": "2021–2024",
+      "text": {
+        "en": "Investigative outlet G4Media documented how Iohannis abandoned his reform promises by forging the PSD–PNL coalition with the Ciucă government, exactly when roughly €80 bn in EU funds and national budget money was at stake; investigations showed the coalition parties paid large media outlets tens of millions of euros to avoid scrutiny of justice and spending scandals.",
+        "ro": "G4Media a documentat cum Iohannis a renunțat la promisiunile reformiste forjând coaliția PSD–PNL cu guvernul Ciucă, exact când erau în joc circa 80 de miliarde de euro din fonduri europene și bani publici; investigațiile au arătat că partidele din coaliție au plătit marile trusturi de presă cu zeci de milioane de euro pentru a evita controlul asupra dosarelor de justiție și cheltuieli."
+      },
+      "impact": {
+        "en": "Press freedom score fell from 75.09 (2021) to 69.04 (2023); prosecutors were brought under heavy political pressure; a March 2025 assessment re-classified Romania from 'flawed democracy' to 'hybrid regime' — the only EU state with that label.",
+        "ro": "Scorul libertății presei a scăzut de la 75,09 (2021) la 69,04 (2023); parchetele au fost puse sub presiune politică intensă; un raport din martie 2025 a reclasificat România de la „democrație deficitară” la „regim hibrid” — singurul stat UE cu această etichetă."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "PÎCCJ reporting (Sibiu100)", "ro": "Information PÎCCJ (Sibiu100)" },
+        "url": "https://sibiu100.ro/eveniment/piccj-a-deschis-un-dosar-penal-privind-anularea-alegerilor-din-2024-peste-600-de-plangeri-in-atentia-procurorilor-klaus-iohannis-se-afla-pe-lista/"
+      }
+    },
+    {
+      "title": {
+        "en": "113.6 million lei in classified presidential flights — criminal complaint, then silence",
+        "ro": "113,6 milioane de lei în zboruri prezidențiale clasificate — plângere penală, apoi tăcere"
+      },
+      "date": "2024–2026",
+      "text": {
+        "en": "The Presidential Administration classified the cost of the private flights chartered by Klaus Iohannis; the sums (113.6 million lei, ≈ €23 m) were declassified only in March 2025 by interim President Bolojan. AUR filed a criminal complaint (abuse of office, diversion of funds); the file was assigned to a prosecutor at the High Court's criminal-prosecution section, but no public procedural step — opening of prosecution, classification or dismissal — was ever reported through November 2026.",
+        "ro": "Administrația Prezidențială a clasificat costul zborurilor private închiriate de Klaus Iohannis; sumele (113,6 milioane de lei, ≈ 23 milEUR euro) au fost desecretizate abia în martie 2025 de președintele interimar Bolojan. AUR a depus o plângere penală (abuz în serviciu, deturnare de fonduri); dosarul a fost repartizat unui procuror de la secția de urmărire penală a Înaltei Curți, dar până în noiembrie 2026 nu a fost raportat public niciun moment procesual — începere a urmăririi, clasare sau scoatere de sub urmărire."
+      },
+      "impact": {
+        "en": "Taxpayers funded ≈ €23 m of classified presidential air travel; the secrecy itself became part of the detriment — the money was spent, and neither parliament nor prosecutors could see at what, for over a year.",
+        "ro": "Contribuabilii au finanțat ≈ 23 de milEUR euro de excursii aeriene prezidențiale clasificate; însă secretomania a fost o parte din prejudiciu — banii au fost cheltuiți și nici Parlamentul, nici procurorii nu au putut să le vadă timp de peste un an."
+      },
+      "money": 23000000,
+      "caseStatus": {
+        "en": "Dormant – complaint assigned at the High Court's criminal-prosecution section; no public step by Nov 2026",
+        "ro": "Latent – plângerea repartizată la secția de urmărire penală a Înaltei Curți; niciun moment public până în noiembrie 2026",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Digi24 – the cost of the classified flights", "ro": "Digi24 – costul zborurilor clasificate" },
+        "url": "https://www.digi24.ro/digieconomic/macro/cat-au-costat-avioanele-private-inchiriate-de-klaus-iohannis-administratia-prezidentiala-a-desecretizat-informatiile-49173"
+      }
+    },
+    {
+      "title": {
+        "en": "Now a criminal file: the election annulment itself under prosecution (in rem, PÎCCJ 48/76/P/2026)",
+        "ro": "Acum dosar penal: chiar an anularea alegerilor sub urmărire penală (in rem, PÎCCJ 48/76/P/2026)"
+      },
+      "date": "2026",
+      "text": {
+        "en": "After 600+ criminal complaints, the High Court's criminal-prosecution section (PÎCCJ) confirmed that in rem prosecution was opened on 27 July 2026 in file 48/76/P/2026 over the annulment of the 2024 presidential runoff. Iohannis — together with CCR judges and former PM Ciolacu — is among the persons indicated in the complaints; charges invoked include abuse of office, obstruction of electoral rights and organizing an organized criminal group. No one has been formally named a suspect yet.",
+        "ro": "După peste 600 de plângeri penale, secția de urmărire penală a Înaltei Curți (PÎCCJ) a confirmat că la 27 iulie 2026 a început o urmărire penală in rem, în dosarul 48/76/P/2026, privind anularea turului al doilea al alegerilor prezidențiale din 2024. Iohannis — alături de judecătorii CCR și fostul premier Ciolacu — figurează printre persoanele indicate în plângeri; infracțiunile invocate includ abuzul în serviciu, împiedicarea exercitării drepturilor electorale și constituirea unui grup infracțional organizat. Nimeni nu a fost încă numit formal suspect."
+      },
+      "impact": {
+        "en": "The annulment — which erased 9.5 million votes — is now inside a criminal prosecution; whatever its outcome, the act that triggered Romania's legitimacy crisis is a purely judicial matter for the first time.",
+        "ro": "Anularea — care a șters 9,5 milioane de voturi — este acum și într-o urmărire penală; indiferent de rezultat, actul care a declanșat criza de legitimitate a României pentru prima dată devine subiect juridic pur."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Active – in rem prosecution opened 27 July 2026 (file 48/76/P/2026); no suspect status public; non-public prosecution as of Nov 2026",
+        "ro": "Activ – urmărire penală in rem începută la 27 iulie 2026 (dosar 48/76/P/2026); fără calitate publică de suspect; urmărire nepublică până în noiembrie 2026",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Sibiu100 – PÎCCJ opens the 2024 annulment file", "ro": "Sibiu100 – PÎCCJ deschide dosarul anulării din 2024" },
+        "url": "https://sibiu100.ro/eveniment/piccj-a-deschis-un-dosar-penal-privind-anularea-alegerilor-din-2024-peste-600-de-plangeri-in-atentia-procurorilor-klaus-iohannis-se-afla-pe-lista/"
+      }
+    }
+  ]
+}

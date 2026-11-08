@@ -1,0 +1,114 @@
+{
+  "id": "sorin-grindeanu",
+  "name": "Sorin Grindeanu",
+  "party": "PSD",
+  "powerRank": 2,
+  "status": "in_power",
+  "statusLabel": {
+    "en": "In power: PSD president and Speaker of the Chamber of Deputies; former prime minister (2017)",
+    "ro": "La putere: președinte PSD și președinte al Camerei Deputaților; fost premier (2017)"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sorin_Grindeanu_%2823_November_2023%29_%28cropped%29.jpg",
+  "severity": 6,
+  "summary": {
+    "en": "The man at the desk when the PSD government tried to decriminalize corruption overnight in January 2017 — and who now runs the Chamber of Deputies and leads the PSD back into government in 2026, trying to reimpose budget order while PSD barons party in fur coats.",
+    "ro": "Omul care conducea guvernul PSD când, în ianuarie 2017, guvernul a încercat să decriminalizeze corupția peste noapte — și care acum conduce Camera Deputaților și readuce PSD la guvernare în 2026, încercând să reinstaleze ordinea bugetară în timp ce baronii PSD ies în blănuri."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "OUG 13/2017: the overnight ordinance that decriminalized corruption",
+        "ro": "OUG 13/2017: ordonanța de urgență care a decriminalizat corupția peste noapte"
+      },
+      "date": "2017",
+      "text": {
+        "en": "At almost midnight on 31 January 2017, the PSD–ALDE government led by Sorin Grindeanu adopted OUG 13, decriminalizing abuse of office below 200,000 lei and softening other corruption offences, bypassing the judiciary's consultation and parliament. The General Prosecutor's Office filed to suspend it; after the largest street protests since 1989, the government repealed it on 5 February 2017.",
+        "ro": "Aproape la miezul nopții pe 31 ianuarie 2017, guvernul PSD–ALDE condus de Sorin Grindeanu a adoptat OUG 13, care decriminaliza abuzul în serviciu sub 200.000 de lei și ușurează alte infracțiuni de corupție, ocolind consultarea sistemului judiciar și dezbaterea parlamentară. Parchetul General a cerut suspendarea acesteia; după cele mai ample proteste de stradă din 1989, guvernul a abrogat-o pe 5 februarie 2017."
+      },
+      "impact": {
+        "en": "DNA had 2,152 ongoing abuse-of-office files at the time, which analysts said could have been directly blocked by the new rules; over 300,000 people protested in Bucharest on 5 February alone, with hundreds of thousands nationwide across six days — the biggest civic mobilization since 1989.",
+        "ro": "DNA avea atunci 2.152 de dosare de abuz în serviciu în lucru, pe care analiștii au susținut că ar fi fost blocate direct de noile reguli; peste 300.000 de oameni au protestat doar în București pe 5 februarie, cu sute de mii la nivel național pe parcursul a șase zile — cea mai amplă mobilizare civică de la 1989."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Repealed after protests — the ordinance never became a legal case against him; he later became PSD president and Speaker of the Chamber",
+        "ro": "Abrogată după proteste — ordonanța nu a devenit dosar penal contra lui; mai târziu a devenit președinte PSD și președinte al Camerei",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "Romania Insider", "ro": "Romania Insider" },
+        "url": "https://www.romania-insider.com/society/protests-romania-reach-goal-emergency-ordinance-justice-officially-terminated"
+      }
+    },
+    {
+      "title": {
+        "en": "Private flights and luxury politics: from a Nordis-chartered jet to a PSD baptism party in November 2026",
+        "ro": "Zboruri private și politică în roșu: de la jetul închiriat de Nordis la petrecerea de botez PSD din noiembrie 2026"
+      },
+      "date": "2024–2026",
+      "text": {
+        "en": "In November 2026, just weeks after leading the PSD back into government on a 'solidarity' programme for struggling Romanians, Grindeanu was godfather at the lavish baptism of a party colleague's son in Timișoara, where PSD leaders appeared in fur coats and luxury outfits while Romanians faced austerity and firm closures. Grindeanu had already been documented by G4Media flying on the private Nordis Gulfstream in 2022, a trip he had not declared in his asset filings; he last year publicly admitted the baptism images 'sent an unsuitable message'.",
+        "ro": "În noiembrie 2026, la doar câteva săptămâni după ce a readus PSD la guvernare pe un program de „solidaritate” pentru românii în dificultate, Grindeanu a fost naș la botezul fastuos al fiului unui coleg de partid la Timișoara, unde liderii PSD au apărut în blănuri și ținute de lux, în timp ce românii suportau măsuri de ajustare și firme închizându-se. Grindeanu fusese deja documentat de G4Media zburând în 2022 cu jetul privat Nordis Gulfstream — o excursie pe care nu o declarase în declarația de avere; anul trecut a recunoscut public că imaginile de la botez „transmiteau un mesaj nepotrivit”."
+      },
+      "impact": {
+        "en": "The same week the PSD demanded Romanians 'accept solidarity', the optics of party barons in furs undermined any credibility of the austerity message; public confidence in his leadership role at the Chamber was hit within days.",
+        "ro": "În săptămâna în care PSD le cerea românilor să „accepte solidaritatea”, imaginea baronilor PSD în blănuri a erodat orice credibilitate a mesajului de austeritate; încrederea publică în rolul său de președinte al Camerei a fost lovită în câteva zile."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "RFI Romania", "ro": "RFI România" },
+        "url": "https://www.rfi.fr/ro/rom%C3%A2nia/20261102-sociali%C8%99tii-de-caviar-petrecerea-de-botez-care-a-pus-psd-%C3%AEn-defensiv%C4%83"
+      }
+    },
+    {
+      "title": {
+        "en": "His former cabinet chief detained in the 2026 DNA raids on the Road Authority (ARR)",
+        "ro": "Fostul său șef de cabinet, reținut în perchezițiile DNA de la Autoritatea Rutieră Română (2026)"
+      },
+      "date": "2026",
+      "text": {
+        "en": "On 31 March 2026, DNA raided the Romanian Road Authority and 22 other locations in a bribery file over professional-driver certifications: 12 suspects, among them ARR head Cristian Anton — Grindeanu's former cabinet chief at the Transport Ministry. Anton was detained and indicted. Grindeanu publicly stated his name does not appear in the indictment; political opponents claim his name appears in DNA transcripts, which he denies.",
+        "ro": "Pe 31 martie 2026, DNA a făcut percheziții la Autoritatea Rutieră Română și în alte 22 de locații, într-un dosar de luare de mită privind atestările de șofer profesionist: 12 suspecți, printre care șeful ARR, Cristian Anton — fostul șef de cabinet al lui Grindeanu la Ministerul Transporturilor. Anton a fost reținut și trimis în judecată. Grindeanu a declarat public că numele său nu figurează în rechizitoriu; oponenții politici susțin că apare în stenogramele DNA, ceea ce el neagă."
+      },
+      "impact": {
+        "en": "The authority that certifies truck drivers and manages freight exams allegedly ran as a bribe mill for years — inside an institution whose leadership appointments trace back to his own ministerial network.",
+        "ro": "Instituția care atestă șoferii de marfă și coordonează examenele ar fi funcționat, ani în șir, ca fabrică de mită — departamente a căror conducere ia naștere din rețeaua sa de numiri din vremurile de ministru."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Active at DNA: 12 suspects (ex-ARR chief detained & indicted) — Grindeanu heard; states he is NOT a suspect",
+        "ro": "Activ la DNA: 12 suspecți (ex-șeful ARR reținut și trimis în judecată) — Grindeanu audiat; susține că NU e suspect",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Digi24", "ro": "Digi24" },
+        "url": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-nu-l-am-adus-eu-pe-cristian-anton-la-ministerul-transporturilor-nu-apare-numele-meu-in-rechizitoriu-3705219"
+      }
+    },
+    {
+      "title": {
+        "en": "Heard as a witness in the ANRP secret-data trial (~8.9 m lei alleged proceeds)",
+        "ro": "Audiat ca martor în procesul ANRP privind informațiile confidențiale (foloase de ~8,9 mil. lei)"
+      },
+      "date": "2026",
+      "text": {
+        "en": "On 3 March 2026, Grindeanu was heard as a WITNESS by the Bucharest Court of Appeal in the trial of the former ANRP vice-president, indicted by DNA for leaking confidential compensation-dossier data; prosecutors allege ~8.9 million lei in undue benefits obtained from ~500 ANRP files. Grindeanu's name was invoked in the evidence; he stresses he is only a witness.",
+        "ro": "Pe 3 martie 2026, Grindeanu a fost audiat în calitate de MARTOR la Curtea de Apel București în procesul fostei vicepreședinte ANRP, trimisă în judecată de DNA pentru transmiterea de informații nedestinate publicității; procurorii susțin foloase necuvenite de ~8,9 milioane de lei obținute din ~500 de dosare ANRP. Numele liderului PSD a fost invocat în probe; el subliniază că are doar statut de martor."
+      },
+      "impact": {
+        "en": "Confidential compensation data, protected by law, was allegedly sold to intermediaries while people waited for their compensation; the trial continues with him as a witness, not a suspect.",
+        "ro": "Date confidențiale de despăgubiri, protejate prin lege, ar fi fost vândute unor intermediari în timp ce oamenii așteptau despăgubirea; procesul continuă cu el ca martor, nu suspect."
+      },
+      "money": 8900000,
+      "caseStatus": {
+        "en": "Active: ex-ANRP VP on trial (DNA indictment) — Grindeanu heard as witness only",
+        "ro": "Activ: fosta vicepreședinte ANRP judecată (rechizitoriu DNA) — Grindeanu audiat doar ca martor",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Alert24", "ro": "Alert24" },
+        "url": "https://alert24.ro/2026/03/04/sorin-grindeanu-a-fost-audiat-intr-un-dosar-dna-legat-de-informatii-confidentiale-din-anrp/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "hubs": [
+    {
+      "id": "nordis",
+      "name": {
+        "en": "Nordis Group (jet & real estate)",
+        "ro": "Nordis — jet & imobiliare"
+      },
+      "note": {
+        "en": "DIICOT investigated customer deposits (~957 m lei); its chartered Gulfstream jet flew party leaders in 2022 — trips none of them declared.",
+        "ro": "DIICOT a anchetat avansurile clienților (~957 de milioane de lei); jetul Gulfstream închiriat de firmă a tot dus lideri PSD în 2022 — cursuri pe care niciunul nu le-a declarat."
+      }
+    },
+    {
+      "id": "teldrum",
+      "name": {
+        "en": "Tel Drum (EU funds)",
+        "ro": "Tel Drum (fonduri UE)"
+      },
+      "note": {
+        "en": "Alleged de-facto control by Dragnea; ~€20 m EU-funds fraud cited; the trial has been stalled for 4+ years with key SRI evidence excluded.",
+        "ro": "Control de fapt susținut aparținând lui Dragnea; fraudă cu fonduri UE de ~20 mil. euro citată; procesul e blocat de 4+ ani, cu probele SRI excluse."
+      }
+    },
+    {
+      "id": "annul2024",
+      "name": {
+        "en": "2024 annulment + PÎCCJ file",
+        "ro": "Anularea 2024 + dosar PÎCCJ"
+      },
+      "note": {
+        "en": "600+ criminal complaints; PÎCCJ opened in-rem prosecution on 27 July 2026 — Iohannis, Ciolacu and several ministers named; nobody has suspect status yet.",
+        "ro": "600+ plângeri penale; PÎCCJ a început urmărirea in rem pe 27 iulie 2026 — Iohannis, Ciolacu și mai mulți miniștri au fost numiți; nimeni nu are, pentru moment, calitatea de suspect."
+      }
+    },
+    {
+      "id": "coalition",
+      "name": {
+        "en": "PSD–PNL ruling machine",
+        "ro": "Mașina PSD–PNL"
+      },
+      "note": {
+        "en": "The supermajority that ruled without opposition while checks on spending were dismantled — blessed by Iohannis, led by rotation between Ciolacu and Ciucă.",
+        "ro": "Supramajoritatea care a condus fără opoziție pe măsură ce controalele pe cheltuieli erau demontate — binecuvântată de Iohannis, condusă prin rotație de Ciolacu și Ciucă."
+      }
+    },
+    {
+      "id": "media",
+      "name": {
+        "en": "€10m for press silence",
+        "ro": "10 mil. € de tăcere"
+      },
+      "note": {
+        "en": "Recorder + US State Dept: PSD and PNL paid major media outlets tens of millions of euros for undisclosed pro-government coverage in just seven months of 2022.",
+        "ro": "Recorder + Departamentul de Stat SUA: PSD și PNL au plătit marile trusturi de presă cu zeci de milioane de euro pentru acoperiri pro-guvernamentale nedezvăluite, doar în primele 7 luni din 2022."
+      }
+    },
+    {
+      "id": "oug13",
+      "name": {
+        "en": "Attacks on justice laws",
+        "ro": "Atacuri pe legile justiției"
+      },
+      "note": {
+        "en": "Emergency ordinances that decriminalized / diluted corruption offences; repealed after 600,000+ people protested — the largest civic mobilization since 1989.",
+        "ro": "Ordonanțe de urgență care decriminalizau / diluau infracțiunile de corupție; abrogate după ce peste 600.000 de oameni au ieșit în stradă — cea mai mare mobilizare civică din 1989."
+      }
+    },
+    {
+      "id": "customs",
+      "name": {
+        "en": "Nădlac customs bribes",
+        "ro": "Șpăgi vama Nădlac"
+      },
+      "note": {
+        "en": "Hauliers allegedly extorted at the EU's busiest freight crossing, partly to finance the Arad PSD machine; MPs named suspects, county bosses heard as witnesses.",
+        "ro": "Transportatorii ar fi fost extorandoni la cel mai aglomerat punct de marfă din UE, parțial pentru a finanța mașina PSD Arad; parlamentari trimiși învinuiți, baronii județeni audiați ca martori."
+      }
+    },
+    {
+      "id": "carehomes",
+      "name": {
+        "en": "Illegal care homes",
+        "ro": "Azilele ilegale"
+      },
+      "note": {
+        "en": "Nearly 100 elderly rescued from abuse in Voluntari (Firea's circle); DIICOT raided a similar Pașca network in Bihor in 2026. Trials slow-moving, seizures lifted.",
+        "ro": "Aproape 100 de vârstnici salvați din abuz la Voluntari (cercul Firea); în 2026, DIICOT a percheziționat o rețea similară a familiei Pașca în Bihor. Procesele merg lent, secheș Enumeration ridicate."
+      }
+    },
+    {
+      "id": "energy",
+      "name": {
+        "en": "Energy Ministry outsourcing",
+        "ro": "Externalizări Minister Energiei"
+      },
+      "note": {
+        "en": "A private consultancy paid ~€28k of public money to draft a binding energy ordinance; its owner operates in the regulated market; no-tender procurement alleged.",
+        "ro": "O firmă de consultanță plătită cu ~28.000 de euro din bani publici pentru a scrie o ordonanță energetică obligatorie; proprietarul activ în piața reglementată; achiziții fără licitație, susținut de senatori."
+      }
+    },
+    {
+      "id": "jets",
+      "name": {
+        "en": "Undeclared private jets",
+        "ro": "Jeturi nedeclarate"
+      },
+      "note": {
+        "en": "The Nordis Gulfstream (Ciolacu, Grindeanu & co., undeclared) and the 8 July 2026 Mykonos flight (Ponta with a CCR judge and businesspeople; complaint sent to PÎCCJ in 24h).",
+        "ro": "Gulfstreamul Nordis (Ciolacu, Grindeanu & co., nedeclarat) și zborul privat la Mykonos din 8 iulie 2026 (Ponta cu un judecător CCR și afaceriști; sesizarea trimisă la PÎCCJ în 24 de ore)."
+      }
+    },
+    {
+      "id": "flights",
+      "name": {
+        "en": "Classified presidential flights",
+        "ro": "Zboruri prezidențiale clasificate"
+      },
+      "note": {
+        "en": "The cost of Iohannis's private flights was classified for over a year; declassified in March 2025 by interim President Bolojan; criminal complaint dormant at PÎCCJ.",
+        "ro": "Costul zborurilor private ale lui Iohannis a fost clasificat trecind peste un an; desecretizat în martie 2025 de președintele interimar Bolojan; plângerea penală latentă la PÎCCJ."
+      }
+    },
+    {
+      "id": "boloplan",
+      "name": {
+        "en": "Bolojan Plan (VAT 21%)",
+        "ro": "Planul Bolojan (TVA 21%)"
+      },
+      "note": {
+        "en": "The largest austerity package in years, pushed after the 9.3%-of-GDP deficit created under the Ciolacu cabinets; signed into law by President Nicușor Dan despite his written, on-camera pledge that VAT would not rise.",
+        "ro": "Cel mai mare pachet de austeritate din ultimii ani, impus după deficitul de 9,3% din PIB creat în cabinetele Ciolacu; promulgat de președintele Nicușor Dan, deși îngheațase la TV în scris că TVA nu va crește."
+      }
+    },
+    {
+      "id": "victoria",
+      "name": {
+        "en": "Cash-for-access (Bogoș)",
+        "ro": "Acces contra bani (Bogoș)"
+      },
+      "note": {
+        "en": "Alleged ~€1.5 m payments for PM-level access and ~€3 m of compensation dossiers at Vaslui agriculture agencies; Bolojan heard as witness, other suspects indicted.",
+        "ro": "Se susține pays de circa 1,5 mil. euro pentru acces la premier și dosare de despăgubiri de ~3 mil. euro la agențiile DSVSA Vaslui; Bolojan audiat ca martor, alți suspecți trimiși în judecată."
+      }
+    },
+    {
+      "id": "servil",
+      "name": {
+        "en": "ARR & ANRP capture files",
+        "ro": "Dosare ARR & ANRP"
+      },
+      "note": {
+        "en": "DNA's 2026 raids on the Road Authority (12 suspects, Grindeanu's ex-cabinet chief detained) and the ANRP secret-data-leak trial (~8.9 m lei alleged proceeds) — Grindeanu heard as a witness in both.",
+        "ro": "Perchezițiile DNA din 2026 la Autoritatea Rutieră (12 suspecți, fostul șef de cabinet al lui Grindeanu reținut) și procesul scurgerilor de date confidențiale de la ANRP (~8,9 mil. lei) — Grindeanu audiat ca martor în ambele."
+      }
+    },
+    {
+      "id": "trams",
+      "name": {
+        "en": "100 trams (DNA + EPPO)",
+        "ro": "100 tramvaie (DNA + EPPO)"
+      },
+      "note": {
+        "en": "Awarded under Firea's mayoralty; in-rem prosecution at DNA central structure and EPPO confirmed June 2024; no public update since.",
+        "ro": "Atribuit în mandatul Firea; urmărire in rem la DNA Structura Centrală și EPPO confirmată în iunie 2024; fără update public de atunci."
+      }
+    }
+  ],
+  "edges": [
+    { "a": "gabriela-firea", "b": "carehomes", "w": 3, "label": { "en": "The horror homes were run by her ex-driver from City Hall and her close friend & adviser; Firea denies any link and was never charged; trial stalled since 2024.", "ro": "Azilele fost administratorate de fostul ei șofer de la Primărie și de prietena și consiliera ei Firea neagă orice legătură și nu a fost inculpată; procesul e blocat din 2024." } },
+    { "a": "gabriela-firea", "b": "trams", "w": 3, "label": { "en": "DNA + EPPO in-rem investigation into how the 100-tram contract (843 m lei) was awarded under her mayoralty; nobody charged yet.", "ro": "Ancheta in rem DNA + EPPO privind modul în care a fost atribuit, în mandatul ei, contractul celor 100 de tramvaie (843 mil. lei); nimeni inculpat încă." } },
+    { "a": "mihai-fifor", "b": "customs", "w": 2, "label": { "en": "Co-led the PSD Arad organization bribes flowed into; heard as a witness — never charged — while colleagues were named suspects.", "ro": "Co-conducea organizația PSD Arad în care curgeau șpăgile; audiat ca martor — niciodată inculpat — în timp ce colegii au fost trimiși învinuiți." } },
+    { "a": "sebastian-burduja", "b": "energy", "w": 3, "label": { "en": "His ministry paid CIGA Energy to write an energy ordinance; senators accused no-tender procurement and a family conflict of interest (his father sits in the partner company's administration); he denies everything.", "ro": "Ministerul său a plătit firma CIGA Energy pentru a scrie o ordonanță energetică; senatorii au acuzat atribuiri fără licitație și un conflict familial de interese (tatăl său în adminisția companiei partenere); el neagă toate." } },
+    { "a": "marcel-ciolacu", "b": "nordis", "w": 3, "label": { "en": "Flew on Nordis's chartered Gulfstream to Monaco/Paris — never declared in his asset filings; DNA criminal complaint (30 Dec 2024) still without a public suspect status.", "ro": "A zburat cu jetul Nordis la Monaco/Paris — nedeclarat în declarațiile de avere; plângerea penală la DNA (30 dec. 2024) rămâne fără calitate publică de suspect." } },
+    { "a": "sorin-grindeanu", "b": "nordis", "w": 3, "label": { "en": "Same Gulfstream manifest as Ciolacu (Monaco F1 2022) — undeclared; disclosed by G4Media flight logs.", "ro": "Același manifest de zbor ca Ciolacu (F1 Monaco 2022) — nedeclarat; scos la iveală de jurnalul de bord G4Media." } },
+    { "a": "marcel-ciolacu", "b": "sorin-grindeanu", "w": 2, "label": { "en": "PSD leadership tandem after Dragnea's fall — the same party machine, the same jet, the same press-money era.", "ro": "Tandem de conducere PSD după căderea Dragnea — aceeași mașină de partid, același jet, aceeași eră a banilor de presă." } },
+    { "a": "marcel-ciolacu", "b": "coalition", "w": 3, "label": { "en": "Senior partner of the supermajority; his cabinets produced the EU's worst inflation and a 9.3%-of-GDP deficit before he walked away.", "ro": "Partenerul major al supramajorității; cabinetele sale au generat inflația cea mai mare din UE și un deficit de 9,3% din PIB înainte să plece." } },
+    { "a": "nicolae-ciuca", "b": "coalition", "w": 3, "label": { "en": "Took the premiership by bringing PSD into government — the party he campaigned against; co-authored the same spending spree.", "ro": "Devenit premier aducând PSD la guvernare — partidul împotriva căruia.campaniase; co-autor al aceleiași curs de cheltuieli." } },
+    { "a": "klaus-iohannis", "b": "coalition", "w": 3, "label": { "en": "Blessed the PSD–PNL merger after 2021 though elected on an anti-corruption, anti-PSD platform.", "ro": "A binecuvântat fuziunea PSD–PNL după 2021, deși fusese ales pe platformă de anticorupție și anti-PSD." } },
+    { "a": "marcel-ciolacu", "b": "media", "w": 2, "label": { "en": "His era's coalition spent €10m+ for media to stay silent on justice and spending scandals.", "ro": "În era sa, coaliția a plătit peste 10 mil. euro pentru ca presa să tacă pe dosarele de justiție și cheltuieli." } },
+    { "a": "nicolae-ciuca", "b": "media", "w": 2, "label": { "en": "Same corporate-media contracts under his cabinets — bought silence exactly when his plagiarised thesis and the security laws were on the table.", "ro": "Aceleași contracte de presă în cabinetele sale — tăcerea cumpărată exact în timp ce teza sa plagiată și legile serviciilor erau pe tapet." } },
+    { "a": "klaus-iohannis", "b": "flights", "w": 3, "label": { "en": "113.6 m lei of classified presidential flights for nearly a year; declassified only by his successor.", "ro": "113,6 milioane de lei de zboruri prezidențiale clasificate pentru mai mult de un an; desecretizate doar de succesorul său." } },
+    { "a": "ilie-bolojan", "b": "flights", "w": 2, "label": { "en": "As interim President he declassified the flight costs of the man he replaced — costing himself nothing, exposing everything.", "ro": "Ca președinte interimar a desecretizat costurile de zbor ale bărbatului pe care l-a înlocuit — fără cost personal pentru el, cu totul expuse." } },
+    { "a": "ilie-bolojan", "b": "boloplan", "w": 3, "label": { "en": "Authored the austerity package: VAT 21%, 10% health tax on pensions over 3,000 lei, wage freezes — protested nationwide.", "ro": "Autorul pachetului de austeritate: TVA 21%, contribuție de sănătate de 10% la pensiile peste 3.000 de lei, înghețuri salariale — contestat în toată țara." } },
+    { "a": "nicusor-dan", "b": "boloplan", "w": 3, "label": { "en": "Signed in writing, live on TV, that VAT would not rise — then promulgated the 21% VAT law; ~€7 bn/yr extracted from households.", "ro": "A semnat în scris, live la TV, că TVA nu va crește — apoi a promulgat legea cu TVA 21%; ~7 miliarde EUR/an extrași din gospodării." } },
+    { "a": "ilie-bolojan", "b": "nicusor-dan", "w": 3, "label": { "en": "Dan appointed Bolojan PM; after the austerity backlash the PSD–AUR censure motion toppled him 281 to 4.", "ro": "Dan l-a numit premier pe Bolojan; după revolta anti-austeritate, moțiunea PSD–AUR l-a răsturnat cu 281 la 4." } },
+    { "a": "ilie-bolojan", "b": "victoria", "w": 2, "label": { "en": "Heard as a witness at DNA Iași over the cash-for-access meeting at Victoria Palace; not a suspect per public record.", "ro": "Audiat ca martor la DNA Iași privind întâlnirea de acces contra bani de la Palatul Victoria; nu e suspect potrivit recordului public." } },
+    { "a": "ilie-bolojan", "b": "carehomes", "w": 1, "label": { "en": "DIICOT's Bihor care-home raid (Pașca family, 2026) hit his home county; he publicly denied any tangency with the association.", "ro": "Percheziția DIICOT asupra azilelor din Bihor (familia Pașca, 2026) a lovit județul lui; el a negat public orice tangență cu asociația." } },
+    { "a": "mihai-fifor", "b": "gabriela-firea", "w": 1, "label": { "en": "Both are PSD county-barons elevated by the same Bucharest machine, in the same era of state-financed party structures.", "ro": "Ambii sunt baroni PSD de județ, urcați de aceeași mașină din București, în aceeași eră a structurilor de partid finanțate din stat." } },
+    { "a": "liviu-dragnea", "b": "teldrum", "w": 3, "label": { "en": "DNA alleged de-facto control of Tel Drum and ~€20 m of EU-funds fraud; sent to court 2022, stalled in preliminary chamber, SRI evidence excluded.", "ro": "DNA a susținut că controla de fapt Tel Drum și o fraudă de ~20 mil. euro cu fonduri UE; trimis în judecată în 2022, blocat în cameră preliminară, probele SRI excluse." } },
+    { "a": "liviu-dragnea", "b": "oug13", "w": 3, "label": { "en": "Pushed O114/2018 to decriminalize abuse of office — the same offence he was finally jailed for in 2019.", "ro": "A impins O114/2018 pentru a decriminaliza abuzul în serviciu — exact infracțiunea pentru care a fost încarcerat definitiv în 2019." } },
+    { "a": "sorin-grindeanu", "b": "oug13", "w": 3, "label": { "en": "His cabinet adopted OUG 13 overnight — the ordinance that decriminalized corruption; repealed after 300,000+ protested in one day.", "ro": "Cabinetul său a adoptat OUG 13 peste noapte — ordonanța care decriminaliza corupția; abrogată după ce peste 300.000 de oameni au protestat într-o singură zi." } },
+    { "a": "victor-ponta", "b": "jets", "w": 2, "label": { "en": "Mykonos private flight July 2026 with a CCR judge and businesspeople; DNA forwarded the complaint to PÎCCJ within 24h.", "ro": "Zbor privat la Mykonos iulie 2026, cu un judecător CCR și afaceriști; DNA a trimis sesizarea la PÎCCJ în mai puțin de 24 de ore." } },
+    { "a": "marcel-ciolacu", "b": "jets", "w": 3, "label": { "en": "Undeclared Nordis jet trips (2022) — the same benefit pattern reported again and again around PSD leadership.", "ro": "Cursurile nedeclarate cu jetul Nordis (2022) — același model de avantaj ce a fost repetat în jurul conducerii PSD." } },
+    { "a": "sorin-grindeanu", "b": "servil", "w": 3, "label": { "en": "His ex-cabinet chief detained in the 2026 DNA raids on the Road Authority; heard as witness in the ANRP data-leak trial; states he is not a suspect.", "ro": "Fostul său șef de cabinet reținut în perchezițiile DNA de la Autoritatea Rutieră (2026); audiat ca martor în procesul scurgerilor ANRP; susține că nu e suspect." } },
+    { "a": "klaus-iohannis", "b": "annul2024", "w": 3, "label": { "en": "Stayed in office after his term expired during the annulment crisis; now named in the 600+ complaints of the in-rem file (no suspect status).", "ro": "A rămas în funcție după expirarea mandatului, în plină criză a anulării; numit acum în cele 600+ de plângeri ale dosarului in rem (fără calitate de suspect)." } },
+    { "a": "marcel-ciolacu", "b": "annul2024", "w": 3, "label": { "en": "Named in the same complaints against the annulment alongside several ministers; nobody charged yet.", "ro": "Numit în aceleași plângeri contra anulării, alături de mai mulți miniștri; nimeni trimis în judecată încă." } },
+    { "a": "nicusor-dan", "b": "annul2024", "w": 2, "label": { "en": "Called the CCR annulment 'unusual and very courageous' — he then won the rerun and built this presidency on the voided ballots.", "ro": "A numit anularea CCR „o decizie neobișnuită și foarte curajoasă” — apoi a câștigat repetiția și a clădit această președinție peste voturile șterse." } }
+  ]
+}

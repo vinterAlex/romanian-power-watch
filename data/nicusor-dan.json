@@ -1,0 +1,124 @@
+{
+  "id": "nicusor-dan",
+  "name": "Nicușor Dan",
+  "party": "Independent",
+  "powerRank": 1,
+  "status": "in_power",
+  "statusLabel": {
+    "en": "In power: sitting President of Romania (elected May 2025); former anti-corruption civil-society figure and Bucharest mayor",
+    "ro": "La putere: președinte în funcție al României (ales în mai 2025); fost activist anticorupție și primar general al Bucureștiului"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nicu%C8%99or_Dan_%2821_May_2025%29.jpg/500px-Nicu%C8%99or_Dan_%2821_May_2025%29.jpg",
+  "severity": 5,
+  "summary": {
+    "en": "The man elected against the establishment — and then governing exactly like it. Signed a written pledge live on TV that VAT would not rise under him; VAT went to 21% months later, under a government he installed. Stood behind the annulment that told millions of Romanians their votes no longer counted, then spent 2026 nominating failed PMs while refusing to let Romanians vote again — and putting a PSD-backed minority cabinet in power.",
+    "ro": "Omul ales contra establishmentului — care apoi a condus exact ca el. A semnat în scris, live la TV, că TVA nu va crește în mandatul lui; TVA a ajuns la 21% câteva luni mai târziu, sub guvernul numit de el. A stat în spatele anulării care i-a spus milioanelor de români că votul lor nu mai contează, apoi a petrecut 2026 nominalizând premieri inadecvați în timp ce refuza să-i mai lase pe români să voteze — și punând la putere un guvern minoritar sprijinit de PSD."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Signed live on TV that VAT would not rise — then it went to 21%",
+        "ro": "A semnat live la TV că TVA nu crește — apoi a ajuns la 21%"
+      },
+      "date": "2025",
+      "text": {
+        "en": "During the 2025 campaign, Nicușor Dan signed a written pledge live on TV that VAT would not be raised if he became president, and repeated on the campaign trail that Romania would not reach a VAT hike. In July 2025 his own PM-designate, Ilie Bolojan, pushed the biggest tax package in years — standard VAT to 21%, reduced VAT to 11% on food, medicine, books and energy, excise +10% — and Nicușor Dan signed it into law and later explained he had seen the fiscal data only after taking office.",
+        "ro": "În campania din 2025, Nicușor Dan a semnat în scris, live la TV, că TVA nu va fi majorată dacă devine președinte, și a repetat în campanie că România nu va ajunge la o majorare de TVA. În iulie 2025, premierul său desemnat, Ilie Bolojan, a impus cel mai mare pachet fiscal din ultimii ani — TVA standard 21%, TVA redus 11% pe alimente, medicamente, cărți și energie, accize +10% — iar Nicușor Dan l-a promulgat, explicând ulterior că a văzut datele fiscale abia după instalare."
+      },
+      "impact": {
+        "en": "The VAT hike alone was designed to pull ~2% of GDP (~€7 bn) from the economy through 2025–26 — taken directly from the shopping baskets, medicine bills and fuel tanks of the same voters who were told, in writing, on camera, that this would not happen.",
+        "ro": "Doar majorarea TVA a fost proiectată să extragă ~2% din PIB (~7 miliarde EUR) din economie pe 2025–26 — luate direct din coșurile de cumpărături, din facturile de medicamente și din rezervoarele acelorași alegători cărora li s-a spus, în scris, la tv, că asta nu se va întâmpla."
+      },
+      "money": 7000000000,
+      "source": {
+        "label": { "en": "Digi24", "ro": "Digi24" },
+        "url": "https://www.digi24.ro/alegeri-prezidentiale-2025/nicusor-dan-a-dat-in-scris-ca-tva-ul-nu-va-fi-majorat-daca-el-devine-presedinte-mesajul-scris-pe-hartie-3238837"
+      }
+    },
+    {
+      "title": {
+        "en": "Behind the annulment: 'an unusual and very courageous decision'",
+        "ro": "În spatele anulării: „o decizie neobișnuită și foarte curajoasă”"
+      },
+      "date": "2024–2025",
+      "text": {
+        "en": "After the Constitutional Court annulled the December 2024 presidential first round, Nicușor Dan publicly called the annulment of 9.5 million votes 'an unusual and very courageous decision', arguing Georgescu was no lone rider and had a network behind him. He then won the rerun in May 2025 — and when rival George Simion challenged THAT result, the same court dismissed the request. Millions of Romanians were left with the lesson that the court decides whose votes count.",
+        "ro": "După ce Curtea Constituțională a anulat primul tur prezidențial din decembrie 2024, Nicușor Dan a numit public anularea celor 9,5 milioane de voturi „o decizie neobișnuită și foarte curajoasă”, susținând că Georgescu nu a fost un călăreț singuratic și că în spatele lui era o rețea. A câștigat apoi repetiția din mai 2025 — iar când George Simion a contestat ACEST rezultat, aceeași instanță a respins cererea. Milioane de români au rămas cu lecția că instanța decide cui îi contează votul."
+      },
+      "impact": {
+        "en": "A uniquely corrosive legitimacy step for Romania's democracy: the electorate's choice was erased overnight, turnout trust collapsed, and the man who benefited from the erasure now nominates every government while dismissing calls to let voters decide again.",
+        "ro": "O lovitură unic de legitimitate pentru democrația României: opțiunea electoratului, ștearsă peste noapte; încrederea în vot prăbușită, iar omul care a beneficiat de ștergarea voturilor numește acum orice guvern, respingând apelurile de a lăsa alegătorii să decidă din nou."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Calea Europeană", "ro": "Calea Europeană" },
+        "url": "https://www.caleaeuropeana.ro/nicusor-dan-afirma-ca-anularea-alegerilor-din-2024-o-decizie-neobisnuita-si-foarte-curajoasa-georgescu-nu-a-fost-un-calaret-singuratic-ci-a-avut-in-spate-o-retea"
+      }
+    },
+    {
+      "title": {
+        "en": "2026 crisis: three failed PM nominations, no snap election, and a PSD-backed minority cabinet",
+        "ro": "Criza din 2026: trei nominalizări eșuate de premier, fără alegeri anticipate și un cabinet minoritar sprijinit de PSD"
+      },
+      "date": "2026",
+      "text": {
+        "en": "After Bolojan's government fell in May 2026, Romania spent more than five months without a fully functioning government: Dan's first three PM nominees all failed, while he repeatedly refused to call the snap election that George Simion and much of the public demanded. He ended the crisis by swearing in a minority government of diplomat Luca Niculescu backed by PSD — the party he defeated in 2025 — as MPs backed it case by case.",
+        "ro": "După căderea guvernului Bolojan în mai 2026, România a petrecut peste cinci luni fără un guvern complet funcțional: primele trei nominalizări de premier ale lui Dan au eșuat, în timp ce el a refuzat repetat să convoace alegerile anticipate cerute de George Simion și de o mare parte a publicului. A încheiat criza învestind un guvern minoritar al diplomatului Luca Niculescu sprijinit de PSD — partidul pe care îl învinsese în 2025 — votat de parlamentari cazul cu caz."
+      },
+      "impact": {
+        "en": "Over five months of paralysis while the leu fell to an all-time low of 5.21 per euro, rating agencies warned of a damaging downgrade, and around €11 bn in EU funding hung on reforms with no working government to deliver them — all while the head of state held the one lever most Romanians say they never got to pull again since December 2024.",
+        "ro": "Peste cinci luni de paralizie în timp ce leul scădea la un minim istoric de 5,21 pe euro, agențiile de rating avertizau asupra unui downgrade distructiv, iar circa 11 miliarde EUR de fonduri UE atârnau de reforme fără un guvern funcțional care să le livreze — în timp ce șeful statului deținea singura pârghie pe care, spun mulți români, n-au mai apucat să o tragă din decembrie 2024."
+      },
+      "money": 11000000000,
+      "source": {
+        "label": { "en": "Politico Europe", "ro": "Politico Europe" },
+        "url": "https://www.politico.eu/article/romania-election-calls-crisis-nicusor-dan-george-simion"
+      }
+    },
+    {
+      "title": {
+        "en": "Chose 'a political government with a common austerity plan' over letting the people vote",
+        "ro": "A ales «un guvern politic cu un plan comun de austeritate» în loc să lase poporul să voteze"
+      },
+      "date": "2025–2026",
+      "text": {
+        "en": "During marathon consultations at Cotroceni, Nicușor Dan rejected a technocratic PM as lacking authority and insisted the best solution was 'a political government with a stable mandate of three and a half years' to carry out a common austerity plan — deepening the same cuts to wages and pensions that had already emptied the streets of protesters.",
+        "ro": "În timpul consultațiilor maraton de la Cotroceni, Nicușor Dan a respins un premier tehnocrat ca lipsit de autoritate și a susținut că cea mai bună soluție este „un guvern politic cu un mandat stabil de trei ani și jumătate\" pentru a aplica un plan comun de austeritate — aprofundând aceleași tăieri la salarii și pensii care oricum goliseră străzile de protestatari."
+      },
+      "impact": {
+        "en": "Under his endorsed austerity, ~600,000 public employees saw bonuses capped, pensioners got a new 10% health contribution on pensions over RON 3,000, and living standards fell across the board — while the presidency did everything to avoid an early vote that would have re-opened the question of whom Romanians actually support.",
+        "ro": "Sub austeritatea pe care a susținut-o, ~600.000 de angajați publici au avut primele plafonate, pensionarii au primit o nouă contribuție de sănătate de 10% la pensiile peste 3.000 lei, iar standardele de viață au scăzut general — în timp ce președinția a făcut tot posibilul să amâne un vot anticipat care ar fi redeschis întrebarea cui îi dau românii sprijin efectiv."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "SpotMedia", "ro": "SpotMedia" },
+        "url": "https://spotmedia.ro/en/news/politics/nicusor-dan-supports-a-political-government-and-a-common-austerity-plan"
+      }
+    },
+    {
+      "title": {
+        "en": "The 2020 DNA file against him: false declarations, money laundering, fraud — never publicly resolved",
+        "ro": "Dosarul DNA din 2020 pe numele lui: fals în declarații, spălare de bani, înșelăciune — niciodată rezolvat public"
+      },
+      "date": "2020–2021",
+      "text": {
+        "en": "In September 2020 DNA opened a file on complaints accusing Nicușor Dan of false declarations, unlicensed practice of professions, money laundering and fraud, relating to alleged fictitious contracts; blackmail and bribery accusations were dropped. In mid-2021 the file was referred to the High Court's prosecution section (PICCJ). As of November 2026 no public record shows either a court referral or a closure — the status is unverifiable. Dan publicly called such complaints a routine 'something that happens every four years'.",
+        "ro": "În septembrie 2020, DNA a deschis un dosar din plângeri care-l acuzau pe Nicușor Dan de fals în declarații, exercitarea fără drept a unor profesii, spălare de bani și înșelăciune, privind presupuse contracte fictive; acuzațiile de șantaj și luare de mită au fost renunțate. La mijlocul lui 2021, dosarul a fost trimis la Parchetul de pe lângă ÎCCJ. Până în noiembrie 2026 nu există public niciun indiciu de trimitere în judecată sau de clasare — stadiul e neverificabil. Dan a numit public asemenea plângeri rutina „ceva ce se întâmplă o dată la patru ani”."
+      },
+      "impact": {
+        "en": "Every election season since, the same unresolved file resurfaces — either as an argument against him or as proof of how slowly Romanian justice closes files; the population never got a definitive answer.",
+        "ro": "În fiecare sezon electoral, același dosar nerezolvat revine — fie ca argument contra lui, fie ca demonstrație cât de lent închide justiția română fișierele; populația nu a primit niciodată un răspuns definitiv."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Status unknown – referred to PICCJ 2021; no public record of court referral or closure as of Nov 2026",
+        "ro": "Stadiu necunoscut – trimis la PÎCCJ în 2021; nicio informație publică de trimitere în judecată sau clasare până în noiembrie 2026",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Gândul", "ro": "Gândul" },
+        "url": "https://www.gandul.ro/diverse/dna-trimite-la-piccj-dosarul-in-care-nicusor-dan-e-acuzat-de-fals-in-declaratii-exercitarea-fara-drept-a-unor-profesii-spalare-de-bani-si-inselaciune-ce-probe-au-administrat-procurorii-19657489"
+      }
+    }
+  ]
+}

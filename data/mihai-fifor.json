@@ -1,0 +1,64 @@
+{
+  "id": "mihai-fifor",
+  "name": "Mihai Fifor",
+  "party": "PSD",
+  "powerRank": 4,
+  "status": "in_power",
+  "statusLabel": {
+    "en": "In power: PSD heavyweight in the county and national party machine; former defence minister and deputy prime minister",
+    "ro": "La putere: baron PSD în mașina de partid județeană și națională; fost ministru al Apărării și vicepremier"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mihai_Fifor_%28cropped%29.jpg",
+  "severity": 5,
+  "summary": {
+    "en": "The Arad county PSD baron who climbed through defence and deputy-PM posts. His record: summoned and heard by DNA in the customs-bribes-for-PSD-Arad file, where road- and customs officials are accused of extorting hauliers at the Nădlac border crossing — one of Europe's busiest — partly to finance his party organization.",
+    "ro": "Baronul PSD Arad, urcat prin funcții de ministru al Apărării și vicepremier. Bilanțul său: audiat de DNA în dosarul șpăgilor de la vamă pentru PSD Arad, în care funcționari de la drumuri și de la vamă sunt acuzați că i-au extorsionat pe transportatori la punctul de trecere de la Nădlac — unul dintre cele mai aglomerate din Europa — parțial pentru a-și finanța organizația de partid."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Summoned and heard by DNA in the customs-bribes-for-PSD-Arad file",
+        "ro": "Audiat de DNA în dosarul șpăgilor de la vamă pentru PSD Arad"
+      },
+      "date": "2019",
+      "text": {
+        "en": "In December 2019, DNA Timișoara raided the Regional Roads and Bridges Directorate (DRDP), the PSD Arad headquarters and MPs' homes in a file alleging DRDP chiefs extorted bribes from hauliers — closing weighbridges and intervening with customs officers — partly to finance PSD Arad, the county organization Fifor co-led. Fifor, then deputy PM, and former transport minister Răzvan Cuc were heard as witnesses; colleagues such as MP Dorel Căprar were named suspects. No charges were publicly brought against Fifor.",
+        "ro": "În decembrie 2019, DNA Timișoara a făcut percheziții la DRDP, la sediul PSD Arad și la domiciliile mai multor parlamentari, într-un dosar în care șefi DRDP sunt acuzați că extortau transportatorii la Nădlac — închizând cântarele și intervenind la vamă — parțial pentru a finanța PSD Arad, organizația județeană co-condusă de Fifor. Atunci vicepremier, Fifor, și fostul ministru al transporturilor Răzvan Cuc au fost audiați ca martori; colegi precum deputatul Dorel Căprar au fost arătați drept învinuiți. Nu au fost aduse public acuzații împotriva lui Fifor."
+      },
+      "impact": {
+        "en": "Hauliers crossing Nădlac — one of Europe's busiest freight checkpoints — allegedly had to pay bribes of hundreds of thousands of lei collected for a political party, with those refusing risking sanctions; the transport sector and retail prices absorbed the cost.",
+        "ro": "Transportatorii care treceau prin Nădlac — unul dintre cele mai aglomerate puncte de marfă din Europa — ar fi fost siliți să plătească șpăgi de sute de mii de lei colectate pentru un partid, cei care refuzau riscând sancțiuni; sectorul transporturilor și prețurile de retail au suferit costul."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Active at DNA for others: ex-senators/deputies (Căprar, Tripa, Chîsa, Jivan) named in the Nădlac bribes scheme; Fifor heard as WITNESS only (Dec 2019); no prosecution against him on public record",
+        "ro": "Activ la DNA pentru alții: fost senatori/deputați (Căprar, Tripa, Chîsa, Jivan) vizați în schema șpăgilor de la Nădlac; Fifor audiat doar ca MARTOR (dec. 2019); nicio desfășurare penală contra lui pe recordul public",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "TVR Info", "ro": "TVR Info" },
+        "url": "https://tvrinfo.ro/fo-tii-mini-tri-mihai-fifor-i-razvan-cuc-au-dat-declara-ii-la-dna-timi-oara-dupa-ce-au-fost-cita-i-ca-martori-in-dosarul-pagilor-din-vama-nadlac_853834"
+      }
+    },
+    {
+      "title": {
+        "en": "Road-administration patronage and dedicated appointments around PSD Arad",
+        "ro": "Patronajul PSD Arad asupra administrației de drumuri și angajările dedicate"
+      },
+      "date": "2019",
+      "text": {
+        "en": "In the same DNA file, reporting showed the head of DRDP Timișoara — installed under PSD Arad auspices, with Fifor among its leaders — allegedly made dedicated appointments whose purpose was to keep the bribe scheme running without obstruction; several DRDP staff were arrested, and prosecutors alleged PSD Arad politicians' influence over the agency and the customs checkpoints.",
+        "ro": "În același dosar DNA, jurnaliștii au scris că șeful DRDP Timișoara — instalat sub auspiciile PSD Arad, organizație în care Fifor figura printre lideri — a făcut angajări dedicate menite să mențină activă schema de șpăgi fără blocaje; mai mulți angajați DRDP au fost reținuți, iar procurorii au invocat influența politicienilor PSD Arad asupra agenției și punctelor de vamă."
+      },
+      "impact": {
+        "en": "Public posts in a national infrastructure agency were allegedly subordinated to party financing; hauliers were effectively taxed by corrupt structures inside state institutions, while the international freight corridor at Nădlac stayed clogged by the scheme.",
+        "ro": "Posturile publice dintr-o agenție națională de infrastructură ar fi fost subordinate finanțării de partid; transportatorii cinstiți au fost, în fapt, impozitați de structuri corupte din instituții publice, în timp ce coridorul internațional de marfă de la Nădlac a rămas blocat de această schemă."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Opinia Timișoarei", "ro": "Opinia Timișoarei" },
+        "url": "https://www.opiniatimisoarei.ro/perchezitii-dna-la-drdp-timisoara-si-la-sediul-psd-arad-3-parlamentari-vizati-intr-un-dosar-de-spaga-si-trafic-de-influenta-politicienii-dusi-la-audieri-foto-si-video/09/12/2019"
+      }
+    }
+  ]
+}

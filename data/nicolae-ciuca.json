@@ -1,0 +1,104 @@
+{
+  "id": "nicolae-ciuca",
+  "name": "Nicolae Ciucă",
+  "party": "PNL",
+  "powerRank": 9,
+  "status": "former",
+  "statusLabel": {
+    "en": "Former Prime Minister (2021–2023), former PNL leader (2022–2024) and former President of the Senate (2023–2024); retired army general now out of executive office",
+    "ro": "Fost prim-ministru (2021–2023), fost lider PNL (2022–2024) și fost președinte al Senatului (2023–2024); general în rezervă, fără funcții executive în prezent"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nicolae-Ciuc%C4%83_%28cropped%29.jpg/500px-Nicolae-Ciuc%C4%83_%28cropped%29.jpg",
+  "severity": 7,
+  "summary": {
+    "en": "A general who promised military discipline in government and delivered the opposite: a proven plagiarised PhD thesis, a coalition with the party he campaigned against, and, together with the PSD, the purchase of press silence while roughly €80 bn in EU money was being spent.",
+    "ro": "Un general care a promis disciplină de armată în guvernare și a livrat opusul: o teză de doctorat dovedit plagiată, o coaliție cu partidul împotriva căruia făcuse campanie și, împreună cu PSD, cumpărarea tăcerii presei în timp ce se cheltuiau circa 80 de miliarde de euro din fonduri UE."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Plagiarised PhD thesis — 42 of 138 pages copied, while a criminal file was later shelved",
+        "ro": "Teză de doctorat plagiat — 42 din 138 de pagini copiate, iar dosarul penal a fost ulterior clasat"
+      },
+      "date": "2022",
+      "text": {
+        "en": "PressOne proved that Prime Minister Ciucă's 2003 doctoral thesis is plagiarised across at least 42 of its 138 content pages, including copies of two other doctoral theses defended at the same military university, with no quotation marks or attribution. A criminal file was opened after public uproar; prosecutors classed it on 15 March 2023 — plagiarism deemed prescribed, 'the deed does not exist'. The military university's ethics review was never concluded publicly.",
+        "ro": "PressOne a demonstrat că teza de doctorat din 2003 a premierului Ciucă este plagiată pe cel puțin 42 din cele 138 de pagini de conținut, inclusiv copieri din două alte teze de doctorat susținute la aceeași universitate militară, fără ghilimele sau atribuire. Un dosar penal a fost deschis după presiunea publică; procurorii l-au clasat la 15 martie 2023 — plagiat considerat prescris, „fapta nu există”."
+      },
+      "impact": {
+        "en": "The leader of government was simultaneously exposed as a failed academic; ethical rules effectively stopped applying to those in power — a signal absorbed by the entire public administration.",
+        "ro": "Șeful guvernului a fost expus ca academician fraudulos; normele de integritate au încetat să se mai aplice celor la putere — semnal absorbit de întreaga administrație publică."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Closed – classed by the General Prosecutor's Office on 15 Mar 2023: plagiarism held prescribed ('the deed does not exist'); the university's ethics review never concluded",
+        "ro": "Închis – clasat de Parchetul General la 15 martie 2023: plagiatul considerat prescris („fapta nu există”); comisia de etică a universității n-a ajuns niciodată la un rezultat public",
+        "open": false
+      },
+      "source": {
+        "label": { "en": "PressOne", "ro": "PressOne" },
+        "url": "https://pressone.ro/premierul-nicolae-ciuca-a-plagiat-in-teza-de-doctorat-printre-sursele-copiate-se-numara-alte-doua-teze-de-doctorat"
+      }
+    },
+    {
+      "title": {
+        "en": "Forging the PSD–PNL coalition with the party he campaigned against",
+        "ro": "Forjarea coaliției PSD–PNL cu partidul împotriva căruia făcuse campanie"
+      },
+      "date": "2021",
+      "text": {
+        "en": "After the Cîțu cabinet fell on 5 October 2021, Ciucă twice failed to form a government, then took the premiership on 25 November 2021 by bringing the PSD — the party he had campaigned against — into a two-thirds majority coalition with President Iohannis's blessing.",
+        "ro": "După căderea cabinetului Cîțu pe 5 octombrie 2021, Ciucă a eșuat de două ori la formarea guvernului, apoi a ajuns premier pe 25 noiembrie 2021 aducând PSD — partidul împotriva căruia campaniase — într-o coaliție cu majoritate de două treimi, cu binecuvântarea președintelui Iohannis."
+      },
+      "impact": {
+        "en": "Critics documented that the two largest parties ruled together for four years with no real opposition in parliament, dismantling checks on spending exactly while the deficit ballooned toward 9% of GDP and Romania slid into political stagnation.",
+        "ro": "Criticii au documentat că cele două mari partide au guvernat împreună patru ani, fără o opoziție reală în Parlament, demontând controalele pe cheltuieli exact în timp ce deficitul creștea spre 9% din PIB și România aluneca în stagnare politică."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "RFE/RL", "ro": "RFE/RL" },
+        "url": "https://www.rferl.org/a/romania-coalition-parliament-approved/31578618.html"
+      }
+    },
+    {
+      "title": {
+        "en": "Press for hire: over €10 m of coalition money to mute the media in seven months",
+        "ro": "Presa pe bani: peste 10 mil. EUR din banii coaliției pentru a amuți presa în doar șapte luni"
+      },
+      "date": "2022",
+      "text": {
+        "en": "Analysis of a Recorder investigation and the US State Department report shows that PSD and PNL — with Ciucă as PNL president and prime minister — spent over €10 m on media contracts in the first seven months of 2022 alone, with major outlets producing undisclosed pro-government content and staying silent on the premier's plagiarism and on the secret-service-drafted security laws.",
+        "ro": "Analiza unei investigații Recorder și a raportului Departamentului de Stat SUA arată că PSD și PNL — cu Ciucă președinte PNL și premier — au cheltuit peste 10 milioane de euro pe contracte de presă doar în primele șapte luni ale lui 2022, marile trusturi producând conținut pro-guvernamental nedezvăluit și tăcând pe plagiatul premierului și legile serviciilor redactate de SIE."
+      },
+      "impact": {
+        "en": "Romania's press freedom ranking fell eight positions in 2022; accountability on justice and spending scandals was effectively bought off with public money.",
+        "ro": "Clasamentul României la libertatea presei a căzut opt poziții în 2022; responsabilizarea pe dosarele de justiție și cheltuieli a fost, în fapt, cumpărată din bani publici."
+      },
+      "money": 10000000,
+      "source": {
+        "label": { "en": "Deutsche Welle", "ro": "Deutsche Welle" },
+        "url": "https://www.dw.com/ro/analiz%C4%83-cum-%C8%99i-au-cump%C4%83rat-ciuc%C4%83-ciolacu-lini%C8%99tea/a-65498117"
+      }
+    },
+    {
+      "title": {
+        "en": "Authoritarian drift: secret services writing their own laws, judges protecting the premier's thesis",
+        "ro": "Derapaj autoritar: serviciile care își scriu singure legile, judecătoare care protejează teza premierului"
+      },
+      "date": "2022",
+      "text": {
+        "en": "Under the Iohannis–Ciucă tandem, G4Media documented the intelligence services drafting their own national security legislation, a Bucharest judge suspending the review of the premier's plagiarised thesis citing 'the need for executive stability', and journalists being threatened over naming sources — amid the spending of roughly €80 bn in EU funds and state money.",
+        "ro": "Sub tandemul Iohannis–Ciucă, G4Media a documentat serviciile de informații care își redactau singure legislația de securitate națională, o judecătoare de la București care suspenda analiza tezei plagiate a premierului invocând „stabilitatea executivă\" și jurnaliști amenințați pentru numirea surselor — în vreme ce se cheltuiau circa 80 de miliarde de euro din fonduri UE și bugetul de stat."
+      },
+      "impact": {
+        "en": "Checks and balances were stripped from the justice system and the media, destroying the defensive lines built after 2019 against corruption — the ground on which the later democratic crisis grew.",
+        "ro": "Echilibrul de putere a fost eliminat din justiție și din presă, distrugând liniile defensive construite după 2019 împotriva corupției — terenul pe care a crescut ulterior criza democratică."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "G4Media.ro", "ro": "G4Media.ro" },
+        "url": "https://www.g4media.ro/degradare-accelerata-si-fara-precedent-a-democratiei-in-regimul-iohannis-ciuca-romania-e-redusa-la-tacere-pnl-se-psd-izeaza-rapid.html"
+      }
+    }
+  ]
+}

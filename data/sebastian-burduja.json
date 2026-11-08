@@ -1,0 +1,79 @@
+{
+  "id": "sebastian-burduja",
+  "name": "Sebastian Burduja",
+  "party": "PNL",
+  "powerRank": 5,
+  "status": "in_power",
+  "statusLabel": {
+    "en": "In power: PNL deputy and president of PNL Bucharest; former Energy Minister (2023–2025) whose proposed return to the ministry was rejected by parliamentary committees in Sept 2026",
+    "ro": "La putere: deputat PNL și președinte al PNL București; fost ministru al Energiei (2023–2025), a cărui propusă revenire la minister a primit aviz negativ în comisii în septembrie 2026"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sebastian_Burduja_in_February_2025_%28cropped%29.jpg",
+  "severity": 5,
+  "summary": {
+    "en": "The young PNL energy minister with a record of conflict-of-interest accusations from opposition senators, a private consultancy paid ~€28,000 of public money to write a government ordinance, and criminal complaints filed — via DIICOT — against environmental NGOs that criticized him.",
+    "ro": "Tânărul ministru energic al PNL, cu un record de acuze de conflict de interese venite de la senatorii de opoziție, o firmă de consultanță plătită cu circa 28.000 de euro din bani publici pentru a scrie o ordonanță guvernamentală și plângeri penale depuse — prin DIICOT — contra ONG-urilor de mediu care l-au criticat."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Conflict-of-interest and no-tender procurement allegations at the Ministry of Energy",
+        "ro": "Acuzații de conflict de interese și atribuiri fără licitație la Ministerul Energiei"
+      },
+      "date": "2025",
+      "text": {
+        "en": "In a March 2025 Senate motion against him, opposition senators alleged the ministry allocated public funds and contracts without transparent tenders — including a large battery-storage project — and that the Transgaz connection at the CET Ișalnița power-plant venture with ALRO Slatina was privileged, while his father Marinel Burduja sat among the company's administrators. He denied wrongdoing, and the Senate rejected the dismissal call (54 to 66).",
+        "ro": "Într-o moțiune simplă din martie 2025, senatorii de opoziție i-au reproșat că ministerul a alocat fonduri și contracte fără licitație transparentă — inclusiv un mare proiect de stocare în baterii — și că legătura Transgaz în cadrul proiectului CET Ișalnița, cu ALRO Slatina, a fost favorizată, în timp ce tatăl său, Marinel Burduja, se afla printre administratorii companiei. A negat orice neregulă, iar Senatul a respins moțiunea (54 la 66)."
+      },
+      "impact": {
+        "en": "Opposition senators also cited Hidroelectrica raising electricity prices by ~60% in February 2025 and CO2 certificates inflating bills by up to 100%, blaming the ministry's project delays; personalised procurement in the energy sector translates directly into household and industry bills.",
+        "ro": "Senatorii de opoziție au citat de asemenea majorarea de ~60% a prețurilor de electricitate de către Hidroelectrica în februarie 2025 și certificatele de CO2 care umflau facturile cu până la 100%, pe care le-au pus pe seama întârzierii proiectelor ministerului; achizițiile preferențiale în energie se traduc direct în facturile gospodăriilor și ale industriei."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Gândul", "ro": "Gândul" },
+        "url": "https://www.gandul.ro/politica/senatorii-dezbat-si-voteaza-luni-motiunea-simpla-depusa-de-suveranisti-impotriva-ministrului-energiei-20474037"
+      }
+    },
+    {
+      "title": {
+        "en": "Private firm paid ~€28,000 of public money to write a government emergency ordinance",
+        "ro": "Firmă privată plătită cu ~28.000 de lei din bani publici pentru a scrie o ordonanță de urgență"
+      },
+      "date": "2025",
+      "text": {
+        "en": "HotNews reported that in his final month as minister, the Energy Ministry paid the private firm CIGA Energy Advisory (~€28,000) to draft emergency ordinance OUG 35/2025, adopted on 27 June 2025. Questions were raised over whether the consultancy's owner — active in the energy sector — could benefit from the rules it wrote; Burduja said there was no conflict of interest and defended the ordinance.",
+        "ro": "HotNews a raportat că, în ultima lună de mandat, Ministerul Energiei a plătit firma privată CIGA Energy Advisory (~28.000 EUR) pentru a redacta ordonanța de urgență OUG 35/2025, adoptată pe 27 iunie 2025. S-a ridicat întrebarea dacă proprietarul consultanței — activ în sectorul energetic — putea să profite de regulile pe care le-a scris; Burduja a susținut că nu a existat niciun conflict de interese a ordonanței."
+      },
+      "impact": {
+        "en": "Taxpayers funded €28,000 of outsourced lawmaking shaped by a consultancy whose executives operate in the regulated energy market — a direct erosion of the principle that binding regulation is written, and accountable, by the public service.",
+        "ro": "Contribuabilii au finanțat 28.000 de euro din elaborarea de legislație în regie externă realizată de o consultanță activă în piața reglementată de energie — un erodare directă a principiului că legislația obligatorie este scrisă și responsabilizată de serviciul public."
+      },
+      "money": 28000,
+      "source": {
+        "label": { "en": "HotNews", "ro": "HotNews" },
+        "url": "https://hotnews.ro/cum-argumenteaza-sebastian-burduja-angajarea-unei-firme-private-pentru-a-scrie-o-ordonanta-un-context-de-complexitate-tehnica-fara-precedent-2025869"
+      }
+    },
+    {
+      "title": {
+        "en": "Criminal complaints against environmental critics and a 23,000-signature petition calling it intimidation",
+        "ro": "Plângeri penale contra criticilor de mediu și o petiție de 23.000 de semnături care o numește intimidare"
+      },
+      "date": "2025",
+      "text": {
+        "en": "After repeated personal attacks on environmental groups, Burduja filed criminal complaints (with fellow ministers) via DIICOT against those 'intentionally spreading false information' about alleged dam demolitions — protests, in practice, against lawful opposition to hydro projects. Greenpeace and Declic responded with a petition of over 23,000 signatures asking President Nicușor Dan not to appoint him to the next government, saying he 'behaved as if we were in the Russian Federation' and used prosecutors to intimidate civil society.",
+        "ro": "După atacuri publice repetate la adresa organizațiilor de mediu, Burduja a depus plângeri penale (alături de alți miniștri) prin DIICOT contra celor care transmiteau „intenționat informații false” despre presupusa demolare de baraje — de fapt, o opoziție legală la proiecte hidro. Greenpeace și Declic au răspuns cu o petiție de peste 23.000 de semnături prin care cereau președintelui Nicușor Dan să nu-l includă în noul guvern, afirmând că „s-a comportat ca și cum am fi în Federația Rusă” și a folosit procurorii pentru a intimida societatea civilă."
+      },
+      "impact": {
+        "en": "Using the criminal-investigation apparatus against lawful environmental objections was assessed by NGOs as intimidation of civil society; environmental defenders reported distrusting official consultations afterwards.",
+        "ro": "Folosirea aparatului de cercetare penală contra obiecțiilor de mediu legale a fost evaluată de ONG-uri ca intimidare a societății civile; apărătorii de mediu au raportat ulterior neîncredere în consultările oficiale."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Ziare.com", "ro": "Ziare.com" },
+        "url": "https://ziare.com/sebastian-burduja/ministrul-energiei-petitie-greenpeace-declic-nicusor-dan-1944705"
+      }
+    }
+  ]
+}

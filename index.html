@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Power Watch — a documented corruption and abuse-of-power monitor for the Romanian political leadership, with real sources and quantified impact on the population." />
+  <title>Power Watch — Romanian Corruption Monitor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__inner">
+      <div class="masthead__titles">
+        <p class="masthead__kicker" data-i18n="kicker"> taxpayer-funded</p>
+        <h1 class="masthead__title">POWER WATCH</h1>
+        <p class="masthead__subtitle" data-i18n="subtitle">Documented corruption &amp; abuse-of-power record of Romania's political leadership — top 10 figures with the power to rule, reconstructed from real sources.</p>
+      </div>
+      <div class="masthead__langs">
+        <button id="lang-ro" class="langbtn" type="button">RO</button>
+        <button id="lang-en" class="langbtn active" type="button">EN</button>
+      </div>
+    </div>
+    <div class="statsbar" id="statsbar"></div>
+    <p class="statsbar__note" data-i18n="statsNote">Money = the sums referenced in the tracked cases (funds at stake, damages, costs imposed on the population) — not proven stolen amounts.</p>
+  </header>
+
+  <section class="toolbar" id="toolbar">
+    <div class="toolbar__row">
+      <div class="searchwrap">
+        <input id="search" type="search" placeholder="Search names, cases…" data-i18n-ph="searchPh" />
+      </div>
+      <div class="chips" id="statusChips"></div>
+      <div class="chips chips--party" id="partyChips"></div>
+      <select id="sort" aria-label="Sort"></select>
+    </div>
+    <p class="toolbar__count" id="count"></p>
+  </section>
+
+  <main>
+    <div class="grid" id="grid"></div>
+    <div class="empty hidden" id="empty" data-i18n="noResults">No figure matches your filters.</div>
+  </main>
+
+  <footer class="footer">
+    <p data-i18n="disclaimer"></p>
+    <p class="footer__small" data-i18n="footerMeta"></p>
+  </footer>
+
+  <div class="modal-backdrop hidden" id="modalBack" role="dialog" aria-modal="true" aria-labelledby="modalName">
+    <div class="modal" role="document">
+      <button class="modal__close" id="modalClose" type="button" aria-label="Close" data-i18n-aria-label="close">✕</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

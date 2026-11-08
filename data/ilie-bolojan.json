@@ -1,0 +1,129 @@
+{
+  "id": "ilie-bolojan",
+  "name": "Ilie Bolojan",
+  "party": "PNL",
+  "powerRank": 6,
+  "status": "former",
+  "statusLabel": {
+    "en": "Former Prime Minister (Nov 2025 – May 2026, ousted by a historic no-confidence motion); acting President Feb–May 2025; still PNL party leader; no corruption charges, but an austerity record that collapsed public support",
+    "ro": "Fost prim-ministru (noiembrie 2025 – mai 2026, demis printr-o moțiune de cenzură istorică); președinte interimar februarie–mai 2025; rămâne lider PNL; fără dosare penale, dar cu un bilanț de austeritate care a spart susținerea publică"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ilie_Bolojan_-_6_March_2025_%28cropped%29.jpg/500px-Ilie_Bolojan_-_6_March_2025_%28cropped%29.jpg",
+  "severity": 5,
+  "summary": {
+    "en": "The budget-medicine politician. He inherited the largest deficit in the EU after the PSD–PNL spending spree and imposed the sharpest austerity package in years — VAT hikes on food and medicine, pension and wage freezes, a new tax on pensions — sending Romania into a 6-month government crisis that ended with his cabinet toppled by 281 votes out of 464.",
+    "ro": "Politicianul-medicament bugetar. A moștenit cel mai mare deficit din UE după petrecerea coaliției PSD–PNL și a impus cel mai dur pachet de austeritate din ultimii ani — majorări de TVA pe mâncare și medicamente, îngheț de pensii și salarii, un nou impozit pe pensii — aruncând România într-o criză guvernamentală de 6 luni care s-a încheiat cu cabinetul său demis de 281 de voturi din 464."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "July 2025 'Bolojan Plan': VAT up to 21%, taxes on food, medicine and energy",
+        "ro": "„Planul Bolojan” din iulie 2025: TVA la 21%, taxe pe mâncare, medicamente și energie"
+      },
+      "date": "2025",
+      "text": {
+        "en": "To cut the EU's widest budget gap (9.3% of GDP in 2024), PM Bolojan pushed the biggest tax-hike package in years: standard VAT from 19% to 21%, reduced VAT from 5%/9% to 11% on food, medicines, books and energy from 1 August 2025, excise duties up 10% on fuel, alcohol and tobacco, dividend tax from 10% to 16%, plus higher bank-profit and gambling taxes.",
+        "ro": "Pentru a reduce cel mai larg deficit bugetar din UE (9,3% din PIB în 2024), premierul Bolojan a impus cel mai mare pachet de fiscalitate din ultimii ani: TVA standard de la 19% la 21%, TVA redus de la 5%/9% la 11% pentru alimente, medicamente, cărți și energie de la 1 august 2025, accize cu 10% mai mari la combustibili, alcool și tutun, impozit pe dividende de la 10% la 16%, plus taxe mai mari pe profitul băncilor și jocurile de noroc."
+      },
+      "impact": {
+        "en": "Roughly 2% of GDP (~€7 bn) extracted in new revenue over 2025–26, with Fitch and ING warning of rising inflation and eroded real incomes; unions said ~600,000 public employees were hit by bonus caps, and the VAT hike lowered living standards for every consumer; protests broke out nationwide.",
+        "ro": "Circa 2% din PIB (~7 miliarde EUR) extrași prin venituri noi pe 2025–26, cu avertismentele Fitch și ING privind inflația și veniturile reale erodate; sindicatele au estimat că ~600.000 de angajați publici au fost loviți de plafonarea primelor, iar majorarea TVA a scăzut standardele de viață pentru orice consumator; au izbucnit proteste în toată țara."
+      },
+      "money": 7000000000,
+      "source": {
+        "label": { "en": "Euractiv", "ro": "Euractiv" },
+        "url": "https://www.rapporteur.com/news/mounting-unrest-in-romania-over-austerity-measures"
+      }
+    },
+    {
+      "title": {
+        "en": "Froze pensions and public wages, introduced a 10% health contribution on pensions over RON 3,000",
+        "ro": "A înghețat pensiile și salariile din sectorul public și a introdus o contribuție de sănătate de 10% la pensiile peste 3.000 lei"
+      },
+      "date": "2025",
+      "text": {
+        "en": "The package nominally froze all state pensions and public-sector wages through 2026, capped bonuses, and introduced a 10% health-insurance contribution on pensions above RON 3,000 (~€600), while cutting teachers' hours and scholarships and restricting public-sector hiring.",
+        "ro": "Pachetul a înghețat nominal toate pensiile de stat și salariile din sectorul public până în 2026, a plafonat primele și a introdus o contribuție de 10% la asigurările de sănătate pentru pensiile peste 3.000 lei (~600 EUR), reducând în același timp normele profesorilor, bursele și angajările în sectorul public."
+      },
+      "impact": {
+        "en": "ING estimated the withdrawals at up to 1.5% of GDP (~€3–5 bn) taken directly from the incomes of pensioners and public employees; unions and pensioners took to the streets from the very announcement week.",
+        "ro": "ING a estimat retragerile la până la 1,5% din PIB (~3–5 miliarde EUR), luate direct din veniturile pensionarilor și ale angajaților publici; sindicatele și pensionarii au ieșit în stradă din chiar prima săptămână a anunțului."
+      },
+      "money": 3000000000,
+      "source": {
+        "label": { "en": "Radio Romania International", "ro": "Radio România Internațional" },
+        "url": "https://www.rri.ro/en/news-and-current-affairs/today-in-the-news/the-first-package-of-fiscal-measures-id905617.html"
+      }
+    },
+    {
+      "title": {
+        "en": "Toppled by a motion named 'Stop the plan to destroy the economy and impoverish the population' — 281 votes to 4",
+        "ro": "Demis printr-o moțiune intitulată „Stop planului de distrugere a economiei și de sărăcire a populației” — 281 de voturi contra 4"
+      },
+      "date": "2026",
+      "text": {
+        "en": "After austerity and a plan to list state-asset stakes drew fierce opposition, PSD quit the coalition in April 2026 and, together with the far-right AUR, filed the censure motion 'Stop Bolojan's plan...' — it passed 281 to 4 on 5 May 2026, one of the most lopsided no-confidence votes in post-communist history.",
+        "ro": "După austeritate și planul de listare a participațiunilor de stat în Bursă, care a stârnit opoziție dură, PSD a părăsit coaliția în aprilie 2026 și, alături de AUR, a depus moțiunea „Stop planului lui Bolojan...” — adoptată cu 281 la 4 pe 5 mai 2026, una dintre cele mai categorice moțiuni de cenzură din istoria post-comunistă."
+      },
+      "impact": {
+        "en": "Romania entered months of paralysis with no full government, three failed PM nominations and, under resumed austerity, the leu hit an all-time low of 5.21 per euro while borrowing costs rose.",
+        "ro": "România a intrat în luni de paralizie, fără guvern complet, cu trei nominalizări eșuate de premier și, sub austeritate reluată, leul a atins un minim istoric de 5,21 pe euro, în timp ce costurile de împrumut urcau."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "AP News", "ro": "AP News" },
+        "url": "https://apnews.com/article/romania-government-no-confidence-motion-european-union-cae251a0ef62c9941d9355c0b2c927ea"
+      }
+    },
+    {
+      "title": {
+        "en": "The 'Fănel Bogoș' file: cash-for-access at Victoria Palace — Bolojan heard as witness",
+        "ro": "Dosarul „Fănel Bogoș”: acces contra bani la Palatul Victoria — Bolojan audiat ca martor"
+      },
+      "date": "2026",
+      "text": {
+        "en": "On 2 October 2026, Bolojan was heard as a WITNESS at DNA Iași over his September 2025 Victoria Palace meeting (as PM) with businessman Fănel Bogoș. Per prosecutors, the file investigates a cash-for-access scheme — allegedly ~€1.5 m offered for a meeting with the PM — and ~€3 m in compensation dossiers at the Vaslui agriculture agency (DSVSA/ANASVSA). Defendants include Mihai Barbu (ex-PNL Vaslui chief), Cristina Trăilă (ex-deputy State Secretary) and Mihai Ponea (ex-DSVSA Vaslui heads). No public record shows Bolojan upgraded to suspect; Bogoș's lawyer says he will not be prosecuted.",
+        "ro": "Pe 2 octombrie 2026, Bolojan a fost audiat în calitate de MARTOR la DNA Iași, privind întâlnirea din septembrie 2025 de la Palatul Victoria (ca premier) cu omul de afaceri Fănel Bogoș. Potrivit procurorilor, dosarul anchetează un mecanism de „acces contra bani” — s-ar fi zis circa 1,5 milioane de euro pentru o întâlnire cu premierul — și dosare de despăgubiri de ~3 mil. euro la DSVSA/ANASVSA Vaslui. Printre inculpați: Mihai Barbu (ex-șef PNL Vaslui), Cristina Trăilă (ex-adjunct secretar de stat) și Mihai Ponea (ex-șefi DSVSA Vaslui). Niciun raport public nu arată că Bolojan a devenit suspect; avocatul afirmă că nu va fi urmărit penal."
+      },
+      "impact": {
+        "en": "Access to the Prime Minister — the most powerful office in Romania — was allegedly for sale through an intermediary network; farmers waiting for millions in compensation became the ecosystem of that trade.",
+        "ro": "Accesul la premier — cea mai puternică funcție din România — ar fi fost, în fapt, de vânzare printr-o rețea de intermediari; fermierii care așteptau despăgubiri de milioane au devenit substratul comerciant."
+      },
+      "money": 4500000,
+      "caseStatus": {
+        "en": "Active at DNA Iași: multiple defendants on trial; Bolojan heard as witness only (2 Oct 2026); not a suspect per public record",
+        "ro": "Activ la DNA Iași: mai mulți inculpați; Bolojan audiat doar ca martor (2 oct. 2026); nu e suspect potrivit raportărilor publice",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Goldring", "ro": "Goldring" },
+        "url": "https://www.goldring.ro/ro/news/ilie-bolojan-a-fost-audiat-ca-martor-la-dna-iasi-in-dosarul-de-coruptie-al-omului-de-afaceri-fanel-bogos"
+      }
+    },
+    {
+      "title": {
+        "en": "EPPO investigates the electric school minibuses bought on his Bihor specification",
+        "ro": "EPPO anchetează microbuzele electrice școlare, cumpărate pe caietul de sarcini al lui Bihor"
+      },
+      "date": "2026",
+      "text": {
+        "en": "EPPO confirmed in April 2026 that it had opened an investigation into the nationwide PNRR purchase of electric school minibuses, triggered by ex-minister Pîslaru's December 2025 complaint. Bihor County Council — which Bolojan led until he became PM — is among the contracting authorities paying inflated unit prices on a specification sheet approved in July 2024 under his presidency. Bolojan is NOT publicly named as a target; reporting through late 2026 described the file as 'shelved', with no findings announced.",
+        "ro": "EPPO a confirmat în aprilie 2026 că a deschis o investigație privind achiziția, la nivel național, a microbuzelor electrice școlare pe PNRR, declanșată de plângerea fostului ministru Pîslaru din decembrie 2025. Consiliul Județean Bihor — pe care Bolojan l-a condus până să devină premier — se numără printre autoritățile care au plătit prețuri per unitate supraevaluate, pe un caiet de sarcini aprobat în iulie 2024 sub președinția lui. Bolojan NU este nominalizat public ca țintă; până la finele lui 2026, raportările descriu dosarul ca „pus la sertar”, fără rezultate anunțate."
+      },
+      "impact": {
+        "en": "EU recovery money meant to electrify school transport was allegedly spent at inflated prices across an entire county network; children got their buses, taxpayers overpaid for them.",
+        "ro": "Banii europeni pentru electrificarea transportului școlar ar fi fost cheltuiți la prețuri supraevaluate pe toată rețeaua de județ; copiii au prins utilajele, contribuabilii au plătit prea mult."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Active at EPPO (confirmed Apr 2026): in rem, CJ Bihor among contracting authorities; Bolojan not publicly named as target; no findings by late 2026",
+        "ro": "Activ la EPPO (confirmat în aprilie 2026): in rem, CJ Bihor în rândul autorităților contractante; Bolojan nu e nominalizat public; fără rezultate până la finele lui 2026",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Jurnalul", "ro": "Jurnalul" },
+        "url": "https://jurnalul.ro/special-jurnalul/anchete/dosarul-microbuzelor-electrice-scolar-pus-la-sertar-de-parchetul-codrutei-kovesi-1043888.html"
+      }
+    }
+  ]
+}

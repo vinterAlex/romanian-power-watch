@@ -1,0 +1,109 @@
+{
+  "id": "gabriela-firea",
+  "name": "Gabriela Firea",
+  "party": "PSD",
+  "powerRank": 3,
+  "status": "in_power",
+  "statusLabel": {
+    "en": "In power: PSD Member of the European Parliament; former Bucharest mayor (2016–2020) and family minister; her administration is linked to corruption probes and a deadly care-home scandal",
+    "ro": "La putere: europarlamentar PSD; fost primar general al Bucureștiului (2016–2020) și ministru al Familiei; administrația ei este legată de dosare de corupție și de scandalul azilelor"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gabriela_Firea_MEP_%282024%29.jpg",
+  "severity": 7,
+  "summary": {
+    "en": "From TV news anchor to mayor of the capital city that produces a quarter of Romania's GDP, then to the European Parliament. Her record: a network of illegal care homes run by her circle, where 100 elderly people were rescued from abuse; ~19 clientelist municipal companies; and corruption probes whose prosecution requests were later blocked inside DNA, per a whistleblower prosecutor.",
+    "ro": "De la prezentatoare de știri la post TV la primar al capitalei care produce un sfert din PIB, apoi în Parlamentul European. Bilanțul ei: o rețea de azile ilegale administrate de cercul ei, din care aproape 100 de vârstnici au fost evacuați din abuz; circa 19 companii municipale clientelistice; și dosare de corupție a căror urmărire a fost ulterior blocată în interiorul DNA, potrivit unui procuror whistleblower."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "'Horror homes': trafficking network run by Firea's circle — 100 elderly and disabled rescued, 28 sent to trial",
+        "ro": "„Azilele groazei”: rețea de exploatare legată de cercul Firea — aproape 100 de vârstnici și persoane cu dizabilități salvați, 28 de trimiși în judecată"
+      },
+      "date": "2023",
+      "text": {
+        "en": "In July 2023 DIICOT prosecutors rescued nearly 100 elderly and disabled residents from illegally-run homes in Voluntari, where they were beaten, starved and forced to work. The homes were run by Ștefan Godei — a former driver at Bucharest City Hall during Firea's mayoralty — together with her close friend and adviser Ligia Gheorghe; Firea's sister worked at the local social-services directorate. Firea denies any link, but resigned as Family Minister; 28 people, including Godei, were sent to trial for human trafficking.",
+        "ro": "În iulie 2023, procurorii DIICOT au evacuat aproape 100 de vârstnici și persoane cu dizabilități din azilele ilegale din Voluntari, unde erau bătuți, înfometați și puși la muncă. Azilele erau administrate de Ștefan Godei — fost șofer la Primăria Capitalei, în mandatul Firea — împreună cu prietena și consiliera ei Ligia Gheorghe; sora Gabrielei Firea lucra la direcția locală de asistență socială. Firea neagă orice legătură, dar a demisionat din funcția de ministru al Familiei; 28 de persoane, printre care Godei, au fost trimise în judecată pentru trafic de persoane."
+      },
+      "impact": {
+        "en": "Nearly 100 vulnerable people were rescued from exploitation with symptoms of malnutrition and forced labour; the illegal homes received almost €800,000 from public social-services funding, and prosecutors allege the group's leader earned ~3.7 m lei (~€740,000) invested into real estate. As of 2026 the trial had still not reached the merits.",
+        "ro": "Aproape 100 de persoane vulnerabile au fost salvate din exploatare, cu simptome de malnutriție și muncă forțată; azilele ilegale au primit aproape 800.000 de euro din fonduri publice de asistență socială, iar procurorii susțin că liderul grupării a câștigat circa 3,7 milioane de lei (~740.000 EUR) investiți în imobiliare. Până în 2026, dosarul nici măcar nu a intrat pe fond."
+      },
+      "money": 800000,
+      "caseStatus": {
+        "en": "On trial, stalled: ~28–30 defendants before Ilfov Tribunal; no hearing for ~2 years, asset seizures lifted by the Bucharest Court of Appeal (10 Mar 2026), defendants free; preliminary issues listed for 23 Apr 2026; Firea is NOT a suspect (a MEP asked DNA to clarify her role)",
+        "ro": "Pe rol, blocat: circa 28–30 inculpați la Tribunalul Ilfov; fără termen ~2 ani, sechestrul ridicat de Curtea de Apel București (10 martie 2026), inculpați liberi; cereri prealabile pe 23 aprilie 2026; Firea NU e suspect (un europarlamentar a cerut DNA clarificarea rolului ei)",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Reuters", "ro": "Reuters" },
+        "url": "https://www.reuters.com/world/europe/romanian-minister-resigns-after-criticism-elderly-abuse-case-2023-07-14"
+      }
+    },
+    {
+      "title": {
+        "en": "~19 clientelist municipal companies and the ~3 bn lei debt left at Bucharest City Hall",
+        "ro": "Circa 19 companii municipale clientelistice și datoria de ~3 miliarde lei lăsată la Primăria Capitalei"
+      },
+      "date": "2016–2020",
+      "text": {
+        "en": "As mayor, Firea created around 19–21 municipal companies criticized as sinecures for clients and party people; boards alone were paid over 10 m lei a month, per her rival Nicușor Dan. After defeating her in 2020, Dan said he found ~3 bn lei in debts and the city in 'an undeclared bankruptcy' — figures Firea disputes; already in 2019 City Hall had announced repeated cuts to investment in kindergartens and public utilities.",
+        "ro": "Ca primar, Firea a înființat circa 19–21 de companii municipale, criticate drept sinecure pentru apropiați și oameni de partid; doar consiliile de administrație erau plătite cu peste 10 milioane de lei pe lună, potrivit lui Nicușor Dan. După ce a învins-o în 2020, Dan a afirmat că a găsit datorii de circa 3 miliarde de lei și primăria în „faliment nedeclarat” — cifre contestate de Firea; deja în 2019 Primăria anunța taieri repetate la investiții în grădinițe și utilități."
+      },
+      "impact": {
+        "en": "Bucharest — a quarter of Romania's GDP — was left massively indebted for investment; in 2019 the mayor proposed cuts of 600 m lei to kindergartens, bike lanes and utility investments, pushing the cost of the mismanagement onto residents.",
+        "ro": "Bucureștiul — un sfert din PIB-ul României — a rămas masiv îndatorat pentru investiții; în 2019 primăria propunea taieri de 600 de milioane de lei la grădinițe, piste de biciclete și investiții în utilități, iar costul gestionării deficiente a fost suportat de cetățeni."
+      },
+      "money": 600000000,
+      "source": {
+        "label": { "en": "Digi24", "ro": "Digi24" },
+        "url": "https://www.digi24.ro/stiri/actualitate/politica/gabriela-firea-anunta-fuzionarea-companilor-municipale-e-nevoie-sa-restrangem-cheltuielile-1289845"
+      }
+    },
+    {
+      "title": {
+        "en": "DNA raided 26 locations over illegal housing-fund apartments; whistleblower claims colleagues blocked case files tied to her mandate",
+        "ro": "DNA a făcut 26 de percheziții într-un dosar privind atribuirea ilegală a locuințelor din fondul locativ; un procuror whistleblower susține că colegii i-au blocat dosarele legate de mandatul ei"
+      },
+      "date": "2021–2025",
+      "text": {
+        "en": "In 2021, DNA raided 26 locations over the illegal allocation of state housing-fund apartments during Firea's 2016–2020 administration, a scheme the acting mayor estimated at 'several million euros'. In 2025, Recorder revealed a young DNA prosecutor's complaint that his superiors invalidated prosecution acts in other files covering Bucharest City Hall from her mandate; the Judicial Inspectorate report was contested internally.",
+        "ro": "În 2021, DNA a făcut 26 de percheziții într-un dosar privind atribuirea nelegală a locuințelor din fondul locativ de stat în perioada 2016–2020, prejudiciul fiind estimat la „câteva milioane de euro” de primarul interimar. În 2025, Recorder a dezvăluit plângerea unui procuror DNA junior potrivit căreia superiorii săi au infirmat acte de urmărire penală în altă casă care viza Primăria Capitalei din mandatul ei; raportul Inspecției Judiciare a fost contestat intern."
+      },
+      "impact": {
+        "en": "Vulnerable residents spent years on housing lists while apartments meant for them were allegedly handed out illegally for millions of euros; the reported blocking of files shows how fragile accountability remained around the mayor's administration.",
+        "ro": "Locuitorii vulnerabili au așteptat ani pe listele de locuințe, în timp ce apartamentele destinate lor ar fi fost atribuite ilegal, pentru prejudicii estimate la câteva milioane de euro; blocarea semnalată a dosarelor arată cât de fragilă rămâne responsabilitatea în jurul administrației primarului."
+      },
+      "money": 0,
+      "source": {
+        "label": { "en": "Recorder", "ro": "Recorder" },
+        "url": "https://recorder.ro/acuzatii-grave-din-interiorul-dna-dosare-blocate-si-prietenii-ale-conducerii-cu-suspecti-de-rang-inalt"
+      }
+    },
+    {
+      "title": {
+        "en": "The 100-trams contract (843 m lei, EU funds) — investigated by DNA and EPPO, in rem",
+        "ro": "Contractul celor 100 de tramvaie (843 de milioane lei, fonduri UE) — anchetat de DNA și EPPO, în fază in rem"
+      },
+      "date": "2024",
+      "text": {
+        "en": "In June 2024, judicial sources confirmed that DNA (central structure) and the European Public Prosecutor's Office were investigating how the Bucharest 100-tram procurement contract (843 million lei, ~€170 m, EU funds) was awarded during her mayoralty. Per DNA, criminal prosecution had been started only in rem — about the act, with no person holding suspect or defendant status; no public update was reported through November 2026.",
+        "ro": "În iunie 2024, surse judiciare au confirmat că DNA (Structura Centrală) și Parchetul European anchetează modul în care a fost atribuit, în mandatul ei, contractul de achiziție al celor 100 de tramvaie (843 de milioane lei, ~170 de mil. euro, fonduri UE). Conform DNA, urmărirea penală fusese începută doar cu privire la faptă (in rem), fără nicio persoană suspect sau inculpat; până în noiembrie 2026 nu a apărut niciun update public."
+      },
+      "impact": {
+        "en": "EU money for Bucharest public transport sits inside an active European anti-fraud investigation; the city's transport upgrade is effectively frozen under the shadow of the probe.",
+        "ro": "Banii europeni destinați transportului public al capitalei sunt, în fapt, blocați în interiorul unei anchete antifraudă europene active; modernizarea transportului capitalei rămâne înghețată sub umbra anchetei."
+      },
+      "money": 170000000,
+      "caseStatus": {
+        "en": "Active – DNA central structure + EPPO, in rem prosecution (June 2024); no person with suspect status; no public update as of Nov 2026",
+        "ro": "Activ – DNA Structura Centrală + EPPO, urmărire în fază in rem (iunie 2024); nicio persoană cu calitatea de suspect; fără update public până în noiembrie 2026",
+        "open": true
+      },
+      "source": {
+        "label": { "en": "Aktual24", "ro": "Aktual24" },
+        "url": "https://www.aktual24.ro/dosar-penal-la-dna-si-eppo-in-care-apare-gabriela-firea-este-anchetat-modul-in-care-a-fost-atribuit-turcilor-contractul-pentru-achizitia-a-100-de-tramvaie/"
+      }
+    }
+  ]
+}
