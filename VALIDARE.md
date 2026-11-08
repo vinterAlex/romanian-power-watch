@@ -1,6 +1,6 @@
 # Validare date Power Watch
 
-**Persoane:** 11 · **Cazuri:** 50 · **Sumă totală referită:** 41,848,668,000 EUR
+**Persoane:** 12 · **Cazuri:** 52 · **Sumă totală referită:** 41,848,668,000 EUR
 
 > Raport automat. Nu validează adevărul afirmațiilor, doar structura și prezența surselor.
 
@@ -70,6 +70,8 @@
 | opiniatimisoarei.ro | 1 |
 | hotnews.ro | 1 |
 | ziare.com | 1 |
+| agerpres.ro | 1 |
+| gov.ro | 1 |
 
 ## Domenii care necesită prudență
 

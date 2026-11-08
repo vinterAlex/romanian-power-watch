@@ -1,0 +1,82 @@
+{
+  "id": "luca-niculescu",
+  "name": "Luca Niculescu",
+  "party": "Independent",
+  "powerRank": 2,
+  "status": "in_power",
+  "statusLabel": {
+    "en": "Prime Minister of Romania since 20 October 2026 — independent, not an MP, leading a cabinet dominated by PSD",
+    "ro": "Prim-ministru al României din 20 octombrie 2026 — independent, nu este parlamentar, conduce un cabinet dominat de PSD"
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luca%20Niculescu%20(111022)%20(cropped).jpg",
+  "severity": 3,
+  "summary": {
+    "en": "A journalist turned diplomat, with no party affiliation and no known corruption case. He took over after six months of government crisis, at the fourth presidential nomination, with a cabinet in which PSD holds most portfolios. The documented problem is not criminal but democratic and transparency-related: an unelected PM running a PSD-dominated government, an official biography page left empty, and no post-appointment asset declaration published at the time of verification.",
+    "ro": "Jurnalist devenit diplomat, fără afiliere politică și fără dosar de corupție cunoscut. A preluat funcția după șase luni de criză guvernamentală, la a patra nominalizare prezidențială, cu un cabinet în care PSD deține majoritatea portofoliilor. Problema documentată nu este penală, ci democratică și de transparență: un premier neales care conduce un guvern dominat de PSD, o pagină oficială de biografie lăsată goală și nicio declarație de avere post-numire publicată la data verificării."
+  },
+  "cases": [
+    {
+      "title": {
+        "en": "Independent PM atop a PSD-dominated government, after the fourth nomination",
+        "ro": "Premier independent în fruntea unui guvern dominat de PSD, după a patra nominalizare"
+      },
+      "date": "2026",
+      "text": {
+        "en": "After the Bolojan cabinet was ousted on 5 May 2026 and three previous nominations failed, President Nicușor Dan nominated Luca Niculescu on 5–6 October 2026. Parliament invested the cabinet with 280 votes for and 58 against, from 338 valid votes, by secret ballot. The government has 11 PSD ministers and six independents, according to Gazeta Publică; PNL criticised the arrangement, saying the government is run from Victoria Palace, not from PSD headquarters.",
+        "ro": "După demiterea guvernului Bolojan la 5 mai 2026 și trei nominalizări eșuate, președintele Nicușor Dan l-a nominalizat pe Luca Niculescu la 5–6 octombrie 2026. Parlamentul a învestit cabinetul cu 280 de voturi pentru și 58 împotrivă, din 338 valabil exprimate, prin vot secret cu bile. Guvernul are 11 miniștri PSD și șase independenți, potrivit Gazetei Publice; PNL a criticat aranjamentul, spunând că guvernul se conduce de la Palatul Victoria, nu de la sediul PSD."
+      },
+      "impact": {
+        "en": "An unelected prime minister governs with a cabinet whose largest block belongs to a party that did not win the most recent elections and does not formally assume the government. The arrangement ended six months of paralysis but concentrates budgetary decisions in PSD-backed ministers.",
+        "ro": "Un prim-ministru neales conduce cu un cabinet al cărui bloc majoritar aparține unui partid care nu a câștigat ultimele alegeri și nu își asumă formal guvernul. Aranjamentul a închis șase luni de paralizie, dar concentrează deciziile bugetare în miniștri susținuți de PSD."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Political context — not a criminal case; mandate ongoing",
+        "ro": "Context politic — nu este dosar penal; mandat în curs",
+        "open": true
+      },
+      "source": {
+        "label": {
+          "en": "Agerpres — government invested (official)",
+          "ro": "Agerpres — Guvernul a fost învestit (oficial)"
+        },
+        "url": "https://agerpres.ro/politic/2026/10/20/guvernul-luca-niculescu-a-fost-investit-de-parlament-oficial--1604971"
+      }
+    },
+    {
+      "title": {
+        "en": "Incomplete transparency: empty official biography and no post-appointment asset declaration",
+        "ro": "Transparență incompletă: biografie oficială goală și nicio declarație de avere post-numire"
+      },
+      "date": "2026",
+      "text": {
+        "en": "At verification, the official government biography page showed only the name and function, with the body replaced by '....'. The latest public asset declaration is from 5 June 2024, when Niculescu was secretary of state: two apartments, 50% of a holiday house, shares in two forest plots, about 49,491 lei and 34,376 euros in accounts, an annual income of 146,080 lei and no debts. A declaration filed after becoming PM was not published at the time of verification.",
+        "ro": "La verificare, pagina oficială de biografie a Guvernului afișa doar numele și funcția, cu corpul textului înlocuit de „....”. Ultima declarație de avere publică este din 5 iunie 2024, când Niculescu era secretar de stat: două apartamente, 50% dintr-o casă de vacanță, cote-părți din două terenuri forestiere, aproximativ 49.491 lei și 34.376 euro în conturi, venit anual 146.080 lei, fără datorii. O declarație depusă după numirea ca premier nu era publicată la data verificării."
+      },
+      "impact": {
+        "en": "Citizens cannot verify the new prime minister's assets and interests directly from official sources; the only available declaration predates his appointment and does not cover possible conflicts arising from it.",
+        "ro": "Cetățenii nu pot verifica averile și interesele noului premier direct din surse oficiale; singura declarație disponibilă este anterioară numirii și nu acoperă posibilele conflicte apărute după aceasta."
+      },
+      "money": 0,
+      "caseStatus": {
+        "en": "Administrative transparency gap — to be remedied; not an accusation",
+        "ro": "Lacună de transparență administrativă — de remediat; nu este o acuzație",
+        "open": true
+      },
+      "source": {
+        "label": {
+          "en": "Government of Romania — official biography",
+          "ro": "Guvernul României — biografie oficială"
+        },
+        "url": "https://gov.ro/ro/prim-ministru/biografie"
+      }
+    }
+  ],
+  "lastVerified": "2026-11-09",
+  "verifiedFunction": "Prim-ministru al României (din 20 octombrie 2026)",
+  "unverified": [
+    "Numărul decretului de desemnare în Monitorul Oficial",
+    "Declarația de avere depusă după numirea ca premier",
+    "Distribuția votului de învestitură pe partide"
+  ]
+}

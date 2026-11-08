@@ -19,7 +19,7 @@ const state = { query: '', status: 'all', party: 'all', sort: 'hierarchy' };
 const I18N = {
   en: {
     kicker: 'Documents the crimes · the damage · the money',
-    subtitle: 'Documented corruption & abuse-of-power record of Romania\'s political leadership — 11 figures who held or influence power, reconstructed from real sources. Last verified: 8 Nov 2026.',
+    subtitle: 'Documented corruption & abuse-of-power record of Romania\'s political leadership — 12 figures who held or influence power, reconstructed from real sources. Last verified: 9 Nov 2026.',
     statsNote: 'Money = sums referenced in the tracked cases (public funds at stake, damages cited by prosecutors, costs imposed on the population) — NOT proven stolen amounts.',
     searchPh: '🔍  Search names, cases, topics…',
     noResults: 'No figure matches your filters.',
@@ -51,7 +51,7 @@ const I18N = {
   },
   ro: {
     kicker: 'Documentează infracțiunile · dauna · banii',
-    subtitle: 'Bilanțul corupției și al abuzurilor de putere ale conducerii politice din România — 11 figuri care au deținut puterea sau o influențează, reconstruit din surse reale. Ultima verificare: 8 nov. 2026.',
+    subtitle: 'Bilanțul corupției și al abuzurilor de putere ale conducerii politice din România — 12 figuri care au deținut puterea sau o influențează, reconstruit din surse reale. Ultima verificare: 9 nov. 2026.',
     statsNote: 'Bani = sumele menționate în dosarele urmărite (fonduri publice în joc, prejudicii CITATE de procurori, costuri impuse populației) — NU sume dovedit furate.',
     searchPh: '🔍  Caută nume, dosare, subiecte…',
     noResults: 'Nicio figură nu se potrivește filtrelor tale.',

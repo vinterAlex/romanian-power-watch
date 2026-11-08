@@ -2,11 +2,11 @@
   "id": "ilie-bolojan",
   "name": "Ilie Bolojan",
   "party": "PNL",
-  "powerRank": 6,
+  "powerRank": 7,
   "status": "former",
   "statusLabel": {
-    "en": "Former Prime Minister (Nov 2025 – May 2026, ousted by a historic no-confidence motion); acting President Feb–May 2025; still PNL party leader; no corruption charges, but an austerity record that collapsed public support",
-    "ro": "Fost prim-ministru (noiembrie 2025 – mai 2026, demis printr-o moțiune de cenzură istorică); președinte interimar februarie–mai 2025; rămâne lider PNL; fără dosare penale, dar cu un bilanț de austeritate care a spart susținerea publică"
+    "en": "Former Prime Minister (23 June 2025 – 5 May 2026, ousted by a historic no-confidence motion); acting President Feb–May 2025; PNL leader; no corruption charges, but an austerity record that collapsed public support",
+    "ro": "Fost prim-ministru (23 iunie 2025 – 5 mai 2026, demis printr-o moțiune de cenzură istorică); președinte interimar februarie–mai 2025; președinte PNL; fără dosare penale, dar cu un bilanț de austeritate care a spart susținerea publică"
   },
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ilie_Bolojan_-_6_March_2025_%28cropped%29.jpg/500px-Ilie_Bolojan_-_6_March_2025_%28cropped%29.jpg",
   "severity": 5,
@@ -141,10 +141,11 @@
       }
     }
   ],
-  "lastVerified": "2026-11-08",
-  "verifiedFunction": "Președinte PNL; fost prim-ministru (noiembrie 2025 – 5 mai 2026)",
+  "lastVerified": "2026-11-09",
+  "verifiedFunction": "Președinte PNL; fost prim-ministru (23 iunie 2025 – 5 mai 2026)",
   "unverified": [
-    "Numărul exact de voturi împotrivă (4) nu a fost confirmat",
     "Cursul de 5,21 lei/euro nu a fost verificat cu BNR"
-  ]
+  ],
+  "verifiedPremierStart": "2025-06-23",
+  "verifiedPremierEnd": "2026-05-05"
 }

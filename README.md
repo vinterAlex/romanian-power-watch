@@ -1,6 +1,6 @@
 # Power Watch — Romanian Corruption Monitor
 
-A dynamic, data-driven watchdog site documenting the corruption and abuse-of-power records of the top Romanian political figures — 11 people who held or influence power — with real sources, quantified impact on the population, and a severity score.
+A dynamic, data-driven watchdog site documenting the corruption and abuse-of-power records of the top Romanian political figures — 12 people who held or influence power — with real sources, quantified impact on the population, and a severity score.
 
 > **Verification status (8 Nov 2026):** the data is being re-checked against primary sources. Current officeholders and functions are tracked in `../gathered_informations/05_institutii_si_legi/REPERE_2026.md`; corrections and unverified figures are listed in `CORECTII.md`. The site now shows `lastVerified` and `verifiedFunction` per person where available.
 >
@@ -30,6 +30,7 @@ power-watch/
 │   ├── files.json      # Manifest: list of person JSON files
 │   ├── klaus-iohannis.json
 │   ├── liviu-dragnea.json
+│   ├── luca-niculescu.json
 │   ├── marcel-ciolacu.json
 │   ├── nicolae-ciuca.json
 │   ├── ilie-bolojan.json
@@ -67,7 +68,7 @@ power-watch/
 }
 ```
 
-To extend the top-10 list later: create `data/<new-slug>.json`, then add the filename to `data/files.json`.
+To extend the list later: create `data/<new-slug>.json`, then add the filename to `data/files.json`.
 
 ## Local debug
 
